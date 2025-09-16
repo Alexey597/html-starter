@@ -1,2374 +1,596 @@
 {
     "projects": [
         {
-            "types": [
-                {
-                    "id": "2",
-                    "title": "Квартира"
-                }
-            ],
-            "startBuildingDate": "30.01.2024",
-            "blocks": {
-                "infrastructure": {
-                    "description": "Жилой комплекс состоит из 3 кирпично-монолитных корпусов, высотой от 24 до 27 этажей, объединенных общим стилобатом.",
-                    "pictures": []
-                },
-                "description": {
-                    "description": "В каждом корпусе есть лобби с уникальным дизайном, авторской мебелью и живыми растениями. Здесь можно отдохнуть в лаунж-з  не, посетить кафе-бар, расслабиться в клубной гостиной, а также отдохнуть в детском кафе с игровой комнатой. В комплексе предусмотрен консьерж-сервис.",
-                    "pictures": [
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/3YsY7zkc/ff9071c6dc72f3df2e162f6082166e49.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/3YsY7zkc/ff9071c6dc72f3df2e162f6082166e49.jpg"
-                            },
-                            "id": 0,
-                            "position": 0,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/d4vvZh0W/50513f878b6ad778af6d9545c77dd42b.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/d4vvZh0W/50513f878b6ad778af6d9545c77dd42b.jpg"
-                            },
-                            "id": 1,
-                            "position": 1,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/WptHvwPL/a1d68e8571ca5370608d8a696a8be043.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/WptHvwPL/a1d68e8571ca5370608d8a696a8be043.jpg"
-                            },
-                            "id": 2,
-                            "position": 2,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/cKDbmyf4/982f1d8f88135da68479855da2f06977.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/cKDbmyf4/982f1d8f88135da68479855da2f06977.jpg"
-                            },
-                            "id": 3,
-                            "position": 3,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/GQxyjNtW/cd4abbb8ffd55c81840a5d7abf54d580.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/GQxyjNtW/cd4abbb8ffd55c81840a5d7abf54d580.jpg"
-                            },
-                            "id": 4,
-                            "position": 4,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        }
-                    ]
-                },
-                "architecture": null
-            },
-            "finishingTypes": null,
+            "id": "7B26DADA-5E74-EC11-A399-8E9D95AEBE87",
             "externalId": "7B26DADA-5E74-EC11-A399-8E9D95AEBE87",
-            "video": null,
             "title": "Dream Riva",
-            "resaleoneyear": null,
-            "picture": "https://i.ibb.co/LzFSC6yT/d6kkyk5avhty5e6450t4wxlv4bcrygpk.jpg",
-            "pictures": null,
-            "investmentthreeyears": null,
-            "tags": null,
-            "priceFrom": {
-                "flat": {
-                    "currency": "RUB",
-                    "value": 15882448
-                }
-            },
             "location": {
-                "area": null,
-                "country": {
-                    "id": 978,
-                    "externalId": "A16033EB-4AA0-47C0-B83B-26A5A8CF55AF",
-                    "title": "Россия",
-                    "slug": ""
-                },
-                "metroList": null,
                 "address": "Андропова пр-т, 20, с6",
                 "latitude": "55.693276",
-                "distanceToMetro": null,
-                "postcode": null,
-                "locality": null,
-                "highwayList": null,
-                "addressCollected": "string",
-                "district2": null,
-                "district1": null,
-                "province": null,
-                "street": null,
-                "metro": null,
-                "district": null,
-                "transportAccessibilityMetro": null,
-                "distanceToMkad": null,
-                "id": 100,
-                "highway": null,
-                "transportAccessibilityHighway": null,
-                "longitude": "37.683066"
+                "longitude": "37.683066",
+                "country": {
+                    "id": 978,
+                    "title": "Россия"
+                }
             },
             "developer": "Regions Development",
-            "id": "8245dab2-953f-4e50-b393-f932ebdc8b2f",
-            "rentoneyear": null,
-            "endBuildingDate": "30.09.2028",
-            "class": null
-        },
-        {
+            "startBuildingDate": "2024-01-30",
+            "endBuildingDate": "2028-09-30",
+            "priceFrom": {
+                "flat": {
+                    "currency": "RUB",
+                    "value": "16106899"
+                }
+            },
+            "description": "Жилой комплекс состоит из 3 кирпично-монолитных корпусов, высотой от 24 до 27 этажей, объединенных общим стилобатом. В каждом корпусе есть лобби с уникальным дизайном, авторской мебелью и живыми растениями. Здесь можно отдохнуть в лаунж-з не, посетить кафе-бар, расслабиться в клубной гостиной, а также отдохнуть в детском кафе с игровой комнатой. В комплексе предусмотрен консьерж-сервис.",
+            "picture": "https://i.ibb.co/LzFSC6yT/d6kkyk5avhty5e6450t4wxlv4bcrygpk.jpg",
             "types": [
                 {
                     "id": "2",
                     "title": "Квартира"
                 }
             ],
-            "startBuildingDate": "30.01.2024",
-            "blocks": {
-                "infrastructure": {
-                    "description": "Комплекс имеет собственную инфраструктуру. На территории жилого квартала запланирована современная школа, детские сады, рестораны, фитнес-центр с бассейном, летние веранды и кафе, а также детский центр и школа искусств. ",
-                    "pictures": []
-                },
-                "description": {
-                    "description": " В лобби расположены зоны для коворкинга, занятий йогой, переговорные и просторный лаундж с мягкой мебелью. В проекте предложено более 200 уникальных планировочных решений. Все квартиры сдаются с отделкой White Box. Из панорамных окон квартир открываются виды на парк «Долина реки Сетунь» и центр Москвы.",
-                    "pictures": [
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/spGkhByx/09528566db417b5ef743e97e8f27415e.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/spGkhByx/09528566db417b5ef743e97e8f27415e.jpg"
-                            },
-                            "id": 0,
-                            "position": 0,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/Cp5fDxbn/69ea393dfc6698bd42be679bf229a4a6.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/Cp5fDxbn/69ea393dfc6698bd42be679bf229a4a6.jpg"
-                            },
-                            "id": 1,
-                            "position": 1,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/Psp8TSLF/414eec5e3c82edef2045d331a229da6a.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/Psp8TSLF/414eec5e3c82edef2045d331a229da6a.jpg"
-                            },
-                            "id": 2,
-                            "position": 2,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/HLCDkKCV/55b5ffd71598665d4375102abb1299b9.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/HLCDkKCV/55b5ffd71598665d4375102abb1299b9.jpg"
-                            },
-                            "id": 3,
-                            "position": 3,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/QvCfHrf3/03d53f5ad3591946fae984f1ba71aade.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/QvCfHrf3/03d53f5ad3591946fae984f1ba71aade.jpg"
-                            },
-                            "id": 4,
-                            "position": 4,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/849Xzbc8/581ec3e04ff5b0721b56d9e11e5bd3ac.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/849Xzbc8/581ec3e04ff5b0721b56d9e11e5bd3ac.jpg"
-                            },
-                            "id": 5,
-                            "position": 5,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        }
-                    ]
-                },
-                "architecture": {
-                    "description": "Жилой комплекс представляет собой футуристичный городской квартал, состоящий из нескольких урбан-блоков. Архитектурной доминантой является блок UB9, состоящий из 5 разноэтажных корпусов высотой от 5 до 59 этажей.",
-                    "pictures": []
-                }
-            },
             "finishingTypes": [
                 {
-                    "id": 4,
-                    "title": "Подчистовая"
+                    "id": "1",
+                    "title": "Без стен"
                 }
-            ],
+            ]
+        },
+        {
+            "id": "D37671A7-E24F-46AB-B669-63EF2231294B",
             "externalId": "D37671A7-E24F-46AB-B669-63EF2231294B",
-            "video": null,
             "title": "Veer",
-            "resaleoneyear": null,
-            "picture": "https://i.ibb.co/hx9tMfbm/bc92e0536544c81a0a7fcd8dfaf1a642.jpg",
-            "pictures": null,
-            "investmentthreeyears": null,
-            "tags": null,
-            "priceFrom": {
-                "flat": {
-                    "currency": "RUB",
-                    "value": 10702384
-                }
-            },
             "location": {
-                "area": null,
-                "country": {
-                    "id": 638,
-                    "externalId": "312BF4E6-F63C-4E3F-8E7A-75E41980C699",
-                    "title": "Россия",
-                    "slug": ""
-                },
-                "metroList": null,
                 "address": "г. Москва, Можайский р-н, ул. Верейская, влд.29",
                 "latitude": "55.708596",
-                "distanceToMetro": null,
-                "postcode": null,
-                "locality": null,
-                "highwayList": null,
-                "addressCollected": "string",
-                "district2": null,
-                "district1": null,
-                "province": null,
-                "street": null,
-                "metro": null,
-                "district": null,
-                "transportAccessibilityMetro": null,
-                "distanceToMkad": null,
-                "id": 100,
-                "highway": null,
-                "transportAccessibilityHighway": null,
-                "longitude": "37.438225"
+                "longitude": "37.438225",
+                "country": {
+                    "id": 978,
+                    "title": "Россия"
+                }
             },
             "developer": "MR Group",
-            "id": "39204697-3059-4f9c-8ebe-44b6405c6eb1",
-            "rentoneyear": null,
-            "endBuildingDate": "30.06.2029",
-            "class": null
-        },
-        {
+            "startBuildingDate": "2024-01-30",
+            "endBuildingDate": "2029-06-30",
+            "priceFrom": {
+                "flat": {
+                    "currency": "RUB",
+                    "value": "12972275"
+                }
+            },
+            "description": "Комплекс имеет собственную инфраструктуру. На территории жилого квартала запланирована современная школа, детские сады, рестораны, фитнес-центр с бассейном, летние веранды и кафе, а также детский центр и школа искусств. В лобби расположены зоны для коворкинга, занятий йогой, переговорные и просторный лаундж с мягкой мебелью. В проекте предложено более 200 уникальных планировочных решений. Все квартиры сдаются с отделкой White Box. Из панорамных окон квартир открываются виды на парк «Долина реки Сетунь» и центр Москвы. Жилой комплекс представляет собой футуристичный городской квартал, состоящий из нескольких урбан-блоков. Архитектурной доминантой является блок UB9, состоящий из 5 разноэтажных корпусов высотой от 5 до 59 этажей.",
+            "picture": "https://i.ibb.co/hx9tMfbm/bc92e0536544c81a0a7fcd8dfaf1a642.jpg",
             "types": [
                 {
                     "id": "2",
                     "title": "Квартира"
                 }
             ],
-            "startBuildingDate": "30.01.2024",
-            "blocks": {
-                "infrastructure": {
-                    "description": "Здесь расположены детская и спортивные площадки, оборудованы места для отдыха. Для владельцев автомобилей предусмотрен подземный паркинг.",
-                    "pictures": []
-                },
-                "description": {
-                    "description": "Проект представляет собой 6 ультрасовременных башен высотой до 48 этажей. На 1 этаже разместятся колясочные, лобби с мягкой зоной и панорамными окнами, комната с почтовыми ящиками и зона ресепшн. Квартиры представлены с панорамными окнами и стеклянными эркерами. ",
-                    "pictures": [
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/TxKQCnJV/b61480e5e3e59dc178efdd55b0b64af3.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/TxKQCnJV/b61480e5e3e59dc178efdd55b0b64af3.jpg"
-                            },
-                            "id": 0,
-                            "position": 0,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/Dmyw8Dt/dc4ca8ab8c1b06115d6c8e6e1329a236.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/Dmyw8Dt/dc4ca8ab8c1b06115d6c8e6e1329a236.jpg"
-                            },
-                            "id": 1,
-                            "position": 1,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/B5sBb2Rj/330a5ab4c02b7567954f4178d9829064.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/B5sBb2Rj/330a5ab4c02b7567954f4178d9829064.jpg"
-                            },
-                            "id": 2,
-                            "position": 2,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/C59KfXhj/cf4030731bf254e17ab35a541fb9c768.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/C59KfXhj/cf4030731bf254e17ab35a541fb9c768.jpg"
-                            },
-                            "id": 3,
-                            "position": 3,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        }
-                    ]
-                },
-                "architecture": {
-                    "description": "Концепцию проекта разработало московское бюро ADM. Входные группы и лифтовые холлы разработаны международной мастерской по дизайну интерьеров и ландшафтной архитектуре JAIME BERIESTAIN STUDIO.",
-                    "pictures": []
-                }
-            },
             "finishingTypes": [
                 {
-                    "id": 1,
-                    "title": "Без отделки"
-                },
-                {
-                    "id": 4,
+                    "id": "1",
                     "title": "Подчистовая"
-                },
-                {
-                    "id": 3,
-                    "title": "Чистовая"
                 }
-            ],
+            ]
+        },
+        {
+            "id": "176006A2-84F2-4C69-A092-B7FF52491949",
             "externalId": "176006A2-84F2-4C69-A092-B7FF52491949",
-            "video": null,
             "title": "High Life",
-            "resaleoneyear": null,
-            "picture": "https://i.ibb.co/kgL6jzfr/cf4030731bf254e17ab35a541fb9c768.jpg",
-            "pictures": null,
-            "investmentthreeyears": null,
-            "tags": null,
-            "priceFrom": {
-                "flat": {
-                    "currency": "RUB",
-                    "value": 19950611
-                }
-            },
             "location": {
-                "area": null,
-                "country": {
-                    "id": 576,
-                    "externalId": "1E46FEBA-86BD-48F0-8634-3B5E9455ADCB",
-                    "title": "Россия",
-                    "slug": ""
-                },
-                "metroList": null,
                 "address": "Район Даниловский, ул Летниковская",
-                "latitude": "55.725670",
-                "distanceToMetro": null,
-                "postcode": null,
-                "locality": null,
-                "highwayList": null,
-                "addressCollected": "string",
-                "district2": null,
-                "district1": null,
-                "province": null,
-                "street": null,
-                "metro": null,
-                "district": null,
-                "transportAccessibilityMetro": null,
-                "distanceToMkad": null,
-                "id": 100,
-                "highway": null,
-                "transportAccessibilityHighway": null,
-                "longitude": "37.645454"
+                "latitude": "55.72567",
+                "longitude": "37.645454",
+                "country": {
+                    "id": 978,
+                    "title": "Россия"
+                }
             },
             "developer": "Пионер",
-            "id": "30c219ae-cf85-4368-92d7-28d976440dbc",
-            "rentoneyear": null,
-            "endBuildingDate": "30.09.2028",
-            "class": null
-        },
-        {
+            "startBuildingDate": "2024-01-30",
+            "endBuildingDate": "2028-09-30",
+            "priceFrom": {
+                "flat": {
+                    "currency": "RUB",
+                    "value": "21212875"
+                }
+            },
+            "description": "Проект представляет собой 6 ультрасовременных башен высотой до 48 этажей. На 1 этаже разместятся колясочные, лобби с мягкой зоной и панорамными окнами, комната с почтовыми ящиками и зона ресепшн. Квартиры представлены с панорамными окнами и стеклянными эркерами. Здесь расположены детская и спортивные площадки, оборудованы места для отдыха. Для владельцев автомобилей предусмотрен подземный паркинг. Концепцию проекта разработало московское бюро ADM. Входные группы и лифтовые холлы разработаны международной мастерской по дизайну интерьеров и ландшафтной архитектуре JAIME BERIESTAIN STUDIO.",
+            "picture": "https://i.ibb.co/kgL6jzfr/cf4030731bf254e17ab35a541fb9c768.jpg",
             "types": [
                 {
                     "id": "2",
                     "title": "Квартира"
                 }
             ],
-            "startBuildingDate": "30.01.2024",
-            "blocks": {
-                "infrastructure": {
-                    "description": "На первых этажах предусмотрены коммерческие помещения. В подземной части зданий находятся паркинги и кладовые помещения. Также проектом предусмотрено благоустройство набережной  и создание 4-километровой парковой зоны и первого в столице водного парка.",
-                    "pictures": []
-                },
-                "description": {
-                    "description": "Многообразие планировочных решений включает в себя квартиры, оснащенные как стандартными, так и панорамными и увеличенными окнами, есть планировки с окнами в ванной. Из большинства квартир открывается вид на Москву-реку.",
-                    "pictures": [
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/LyF5khP/9669a1597c8e77fcbd2d921a9bee4cb6.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/LyF5khP/9669a1597c8e77fcbd2d921a9bee4cb6.jpg"
-                            },
-                            "id": 0,
-                            "position": 0,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/wXFb3x0/279093284b74b1d713555fc6ff783b47.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/wXFb3x0/279093284b74b1d713555fc6ff783b47.jpg"
-                            },
-                            "id": 1,
-                            "position": 1,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/WNcBkZ8y/889a64394f7660de8f12f2f84161f397.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/WNcBkZ8y/889a64394f7660de8f12f2f84161f397.jpg"
-                            },
-                            "id": 2,
-                            "position": 2,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/0yxn8tTR/08a0977d3d01efc37238a862dbd08fc8.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/0yxn8tTR/08a0977d3d01efc37238a862dbd08fc8.jpg"
-                            },
-                            "id": 3,
-                            "position": 3,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/V1ggYXn/04b18892c130b750245a82224b4f62e1.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/V1ggYXn/04b18892c130b750245a82224b4f62e1.jpg"
-                            },
-                            "id": 4,
-                            "position": 4,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/qFMvtpCK/84474d1fd19575c8b5f98c09f999be1f.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/qFMvtpCK/84474d1fd19575c8b5f98c09f999be1f.jpg"
-                            },
-                            "id": 5,
-                            "position": 5,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/tTVrwLdL/d0f59b3f596b52c4ea9af29c1868d32b.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/tTVrwLdL/d0f59b3f596b52c4ea9af29c1868d32b.jpg"
-                            },
-                            "id": 6,
-                            "position": 6,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/ZpM05FH9/490f4f0e78f9d1f715ff2969f4165514.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/ZpM05FH9/490f4f0e78f9d1f715ff2969f4165514.jpg"
-                            },
-                            "id": 7,
-                            "position": 7,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/gFt7SjB1/216ece58d1536f2c64939e876dcdc003.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/gFt7SjB1/216ece58d1536f2c64939e876dcdc003.jpg"
-                            },
-                            "id": 8,
-                            "position": 8,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        }
-                    ]
-                },
-                "architecture": {
-                    "description": "Над созданием концепции жилого комплекса работало архитектурное бюро Buromoscow. Весь район спроектирован на основе принципа 15-минутной доступности необходимой инфраструктуры и продуманных прогулочных маршрутов. ",
-                    "pictures": []
-                }
-            },
             "finishingTypes": [
                 {
-                    "id": 1,
-                    "title": "Без отделки"
+                    "id": "1",
+                    "title": "Без отделки        \nПодчистовая        \nЧистовая"
                 }
-            ],
+            ]
+        },
+        {
+            "id": "f8afcbe4-e9ba-4fa0-9762-08a3e801db80",
             "externalId": "f8afcbe4-e9ba-4fa0-9762-08a3e801db80",
-            "video": null,
             "title": "Shagal",
-            "resaleoneyear": null,
-            "picture": "https://i.ibb.co/Xrvnvkr1/photo-2025-03-25-10-54-58.jpg",
-            "pictures": null,
-            "investmentthreeyears": null,
-            "tags": null,
-            "priceFrom": {
-                "flat": {
-                    "currency": "RUB",
-                    "value": 14030241
-                }
-            },
             "location": {
-                "area": null,
-                "country": {
-                    "id": 697,
-                    "externalId": "20D1CDF9-A4A0-4BB8-9B94-0A05BF57E8B9",
-                    "title": "Россия",
-                    "slug": ""
-                },
-                "metroList": null,
                 "address": "набережная Марка Шагала, 11 к3",
                 "latitude": "55.687172",
-                "distanceToMetro": null,
-                "postcode": null,
-                "locality": null,
-                "highwayList": null,
-                "addressCollected": null,
-                "district2": null,
-                "district1": null,
-                "province": null,
-                "street": null,
-                "metro": null,
-                "district": null,
-                "transportAccessibilityMetro": null,
-                "distanceToMkad": null,
-                "id": 0,
-                "highway": null,
-                "transportAccessibilityHighway": null,
-                "longitude": "37.640497"
+                "longitude": "37.640497",
+                "country": {
+                    "id": 978,
+                    "title": "Россия"
+                }
             },
             "developer": "Эталон",
-            "id": "0401f85f-7b34-41bd-a3b4-afc446bcb6b7",
-            "rentoneyear": null,
-            "endBuildingDate": "30.12.2029",
-            "class": null
-        },
-        {
+            "startBuildingDate": "2024-01-30",
+            "endBuildingDate": "2029-12-30",
+            "priceFrom": {
+                "flat": {
+                    "currency": "RUB",
+                    "value": "17378992"
+                }
+            },
+            "description": "Над созданием концепции жилого комплекса работало архитектурное бюро Buromoscow. Весь район спроектирован на основе принципа 15-минутной доступности необходимой инфраструктуры и продуманных прогулочных маршрутов. На первых этажах предусмотрены коммерческие помещения. В подземной части зданий находятся паркинги и кладовые помещения. Также проектом предусмотрено благоустройство набережной и создание 4-километровой парковой зоны и первого в столице водного парка. Многообразие планировочных решений включает в себя квартиры, оснащенные как стандартными, так и панорамными и увеличенными окнами, есть планировки с окнами в ванной. Из большинства квартир открывается вид на Москву-реку.",
+            "picture": "https://i.ibb.co/Xrvnvkr1/photo-2025-03-25-10-54-58.jpg",
             "types": [
                 {
                     "id": "2",
                     "title": "Квартира"
                 }
             ],
-            "startBuildingDate": "30.01.2024",
-            "blocks": {
-                "infrastructure": {
-                    "description": "Здесь есть современный фитнес-центр с тренажерным залом, залом для йоги и 25-метровым бассейном. Также есть термальный комплекс, массажный салон, салон красоты и барбершоп.Для детей предусмотрены все условия: детская игровая комната, частный детский сад, начальная школа, игровые площадки, образовательные и спортивные пространства. В комплексе работают магазины, гастрономические пространства, винотека, кофейня, пункты выдачи заказов и дом быта.",
-                    "pictures": []
-                },
-                "description": {
-                    "description": "Жилой комплекс состоит из 3 корпусов переменной этажности, максимальной высотой в 57 и 58 этажей. В проекте представлен широкий выбор планировок. Квартиры предлагаются без отделки, с возможностью заказать отделку white box. Потолки имеют высоту 3,25 метра. Более 60% квартир имеют панорамный вид из окон на Юго-западный лесопарк",
-                    "pictures": [
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/vxnRRV82/bc18bb296322c30fb62cf096f5f7f095.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/vxnRRV82/bc18bb296322c30fb62cf096f5f7f095.jpg"
-                            },
-                            "id": 0,
-                            "position": 0,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/xKzjZw9p/4060ef702758f1c86b4d2e956f3e7f32.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/xKzjZw9p/4060ef702758f1c86b4d2e956f3e7f32.jpg"
-                            },
-                            "id": 1,
-                            "position": 1,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/nsB20TvZ/0550d0f1ce06d0d94bfabd9dff4e926c.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/nsB20TvZ/0550d0f1ce06d0d94bfabd9dff4e926c.jpg"
-                            },
-                            "id": 2,
-                            "position": 2,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/RGFwY7Pz/ce47211ef117cdda12f95c68b0b2b6df.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/RGFwY7Pz/ce47211ef117cdda12f95c68b0b2b6df.jpg"
-                            },
-                            "id": 3,
-                            "position": 3,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/vvYQZMvs/d3b0b2bea7fea61c0cdb795ba11b19ac.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/vvYQZMvs/d3b0b2bea7fea61c0cdb795ba11b19ac.jpg"
-                            },
-                            "id": 4,
-                            "position": 4,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/8ycWwR9/00e9540b37d99af56dc525cab46f3071.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/8ycWwR9/00e9540b37d99af56dc525cab46f3071.jpg"
-                            },
-                            "id": 5,
-                            "position": 5,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        }
-                    ]
-                },
-                "architecture": {
-                    "description": "Архитектурная концепция проекта была разработана известным бюро KAMEN. Комплекс отличается выразительными фасадами, панорамными окнами и использованием высококачественных отделочных материалов. ",
-                    "pictures": []
-                }
-            },
             "finishingTypes": [
                 {
-                    "id": 1,
-                    "title": "Без отделки"
+                    "id": "1",
+                    "title": "Без отделки."
                 }
-            ],
-            "externalId": "6463D4CA-7C35-4F4E-9E3F-97D30505A8D8",
-            "video": null,
+            ]
+        },
+        {
+            "id": "6463D4CA-7C35-4F4E-9E3F-97D30505A8D8\t\n",
+            "externalId": "6463D4CA-7C35-4F4E-9E3F-97D30505A8D8\t\n",
             "title": "Ice towers",
-            "resaleoneyear": null,
-            "picture": "https://i.ibb.co/RT4hRvgY/ce6e1b7a4f71e0c94b36feb8ed551e94.jpg",
-            "pictures": null,
-            "investmentthreeyears": null,
-            "tags": null,
-            "priceFrom": {
-                "flat": {
-                    "currency": "RUB",
-                    "value": 28993287
-                }
-            },
             "location": {
-                "area": null,
-                "country": {
-                    "id": 255,
-                    "externalId": "7821A920-4FEF-4F21-B6EE-1479AD22E933",
-                    "title": "Россия",
-                    "slug": ""
-                },
-                "metroList": null,
                 "address": "Проспект Вернадского, ул Лобачевского",
                 "latitude": "55.665512",
-                "distanceToMetro": null,
-                "postcode": null,
-                "locality": null,
-                "highwayList": null,
-                "addressCollected": null,
-                "district2": null,
-                "district1": null,
-                "province": null,
-                "street": null,
-                "metro": null,
-                "district": null,
-                "transportAccessibilityMetro": null,
-                "distanceToMkad": null,
-                "id": 0,
-                "highway": null,
-                "transportAccessibilityHighway": null,
-                "longitude": "37.504066"
+                "longitude": "37.504066",
+                "country": {
+                    "id": 978,
+                    "title": "Россия"
+                }
             },
             "developer": "Град Девелопмент",
-            "id": "bc4d6230-e5a8-4266-855d-5b060433c0e9",
-            "rentoneyear": null,
-            "endBuildingDate": "30.06.2029",
-            "class": null
-        },
-        {
+            "startBuildingDate": "2024-01-30",
+            "endBuildingDate": "2029-06-30",
+            "priceFrom": {
+                "flat": {
+                    "currency": "RUB",
+                    "value": "24733725"
+                }
+            },
+            "description": "Жилой комплекс состоит из 3 корпусов переменной этажности, максимальной высотой в 57 и 58 этажей. В проекте представлен широкий выбор планировок. Квартиры предлагаются без отделки, с возможностью заказать отделку white box. Потолки имеют высоту 3,25 метра. Более 60% квартир имеют панорамный вид из окон на Юго-западный лесопарк. Архитектурная концепция проекта была разработана известным бюро KAMEN. Комплекс отличается выразительными фасадами, панорамными окнами и использованием высококачественных отделочных материалов. Здесь есть современный фитнес-центр с тренажерным залом, залом для йоги и 25-метровым бассейном. Также есть термальный комплекс, массажный салон, салон красоты и барбершоп.Для детей предусмотрены все условия: детская игровая комната, частный детский сад, начальная школа, игровые площадки, образовательные и спортивные пространства. В комплексе работают магазины, гастрономические пространства, винотека, кофейня, пункты выдачи заказов и дом быта.",
+            "picture": "https://i.ibb.co/RT4hRvgY/ce6e1b7a4f71e0c94b36feb8ed551e94.jpg",
             "types": [
                 {
                     "id": "2",
                     "title": "Квартира"
                 }
             ],
-            "startBuildingDate": "30.01.2024",
-            "blocks": {
-                "infrastructure": {
-                    "description": "Среди зон отдыха — домашний ресторан, общественная гостиная, детская комната, кинозал и видовая терраса с лаунж-зоной. Спортивные зоны включают в себя зал для йоги и медитаций, тренажерный зал, массажный кабинет, сауны и террасы с зоной workout. Рабочие пространства представлены библиотекой с панорамным видом на город, коворкингом    оборудованными переговорными. В комплексе есть закрытый благоустроенный двор с амфитеатром для мероприятий, местами для работы и отдыха, зоной для барбекю, оборудованным спортивным кластером и двухуровневой детской площадкой. ",
-                    "pictures": []
-                },
-                "description": {
-                    "description": "Комплекс состоит из двух башен со стеклянными фасадами высотой 34 и 49 этажей. В комплексе представлены квартиры с одной, двумя, тремя и четырьмя спальнями, площадь которых варьируется от 35,5 до 280 квадратных метров. Также есть уникальные форматы: квартиры с террасами, двухуровневые квартиры с патио, «парящие» квартиры и пентхаусы. Все квартиры сдаются с отделкой White box, а высота потолков составляет от 3,25 до 6,35 метра.",
-                    "pictures": [
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/CpB9tM34/2d42056e56b03937ff204ff2c489a607.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/CpB9tM34/2d42056e56b03937ff204ff2c489a607.jpg"
-                            },
-                            "id": 0,
-                            "position": 0,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/1fG4vvxP/64581350a688d7150b931bcb9f4d72e3.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/1fG4vvxP/64581350a688d7150b931bcb9f4d72e3.jpg"
-                            },
-                            "id": 1,
-                            "position": 1,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/FLzbtnfb/80fcc5730a352c669de0fd6f7973cced.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/FLzbtnfb/80fcc5730a352c669de0fd6f7973cced.jpg"
-                            },
-                            "id": 2,
-                            "position": 2,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/pBy8PLkd/c8b8f7bb9a2ffee07fed20341d97ca05.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/pBy8PLkd/c8b8f7bb9a2ffee07fed20341d97ca05.jpg"
-                            },
-                            "id": 3,
-                            "position": 3,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        }
-                    ]
-                },
-                "architecture": {
-                    "description": "Архитектурной доминантой проекта является мост, который соединяет башни на высоте 80 метров. В башнях спроектировано просторное гранд-лобби с отделкой из натуральных материалов, живыми дер  вьями и камином.",
-                    "pictures": []
-                }
-            },
             "finishingTypes": [
                 {
-                    "id": 1,
+                    "id": "1",
                     "title": "Без отделки"
                 }
-            ],
+            ]
+        },
+        {
+            "id": "E67A19DB-046E-484E-9789-4BB9FE2D96FA",
             "externalId": "E67A19DB-046E-484E-9789-4BB9FE2D96FA",
-            "video": null,
             "title": "HideOUT",
-            "resaleoneyear": null,
-            "picture": "https://i.ibb.co/jZyqgS44/80fcc5730a352c669de0fd6f7973cced.jpg",
-            "pictures": null,
-            "investmentthreeyears": null,
-            "tags": null,
-            "priceFrom": {
-                "flat": {
-                    "currency": "RUB",
-                    "value": 28525400
-                }
-            },
             "location": {
-                "area": null,
+                "address": "Раменки, 3-й Сетуньский проезд\n",
+                "latitude": "55.73216",
+                "longitude": "37.534739",
                 "country": {
-                    "id": 655,
-                    "externalId": "A4E50A55-6EB5-4EDB-8B75-9B9C971B2556",
-                    "title": "Россия",
-                    "slug": ""
-                },
-                "metroList": null,
-                "address": "Раменки, 3-й Сетуньский проезд",
-                "latitude": "55.732160",
-                "distanceToMetro": null,
-                "postcode": null,
-                "locality": null,
-                "highwayList": null,
-                "addressCollected": null,
-                "district2": null,
-                "district1": null,
-                "province": null,
-                "street": null,
-                "metro": null,
-                "district": null,
-                "transportAccessibilityMetro": null,
-                "distanceToMkad": null,
-                "id": 0,
-                "highway": null,
-                "transportAccessibilityHighway": null,
-                "longitude": "37.534739"
+                    "id": 978,
+                    "title": "Россия"
+                }
             },
             "developer": "Dominanta",
-            "id": "341a7c2c-98df-4f61-a93f-c1e70afcebab",
-            "rentoneyear": null,
-            "endBuildingDate": "30.12.2028",
-            "class": null
-        },
-        {
+            "startBuildingDate": "2024-01-30",
+            "endBuildingDate": "2028-12-30",
+            "priceFrom": {
+                "flat": {
+                    "currency": "RUB",
+                    "value": "30532600"
+                }
+            },
+            "description": "Комплекс состоит из двух башен со стеклянными фасадами высотой 34 и 49 этажей. В комплексе представлены квартиры с одной, двумя, тремя и четырьмя спальнями, площадь которых варьируется от 35,5 до 280 квадратных метров. Также есть уникальные форматы: квартиры с террасами, двухуровневые квартиры с патио, «парящие» квартиры и пентхаусы. Все квартиры сдаются с отделкой White box, а высота потолков составляет от 3,25 до 6,35 метра. Архитектурной доминантой проекта является мост, который соединяет башни на высоте 80 метров. В башнях спроектировано просторное гранд-лобби с отделкой из натуральных материалов, живыми дер вьями и камином. Среди зон отдыха — домашний ресторан, общественная гостиная, детская комната, кинозал и видовая терраса с лаунж-зоной. Спортивные зоны включают в себя зал для йоги и медитаций, тренажерный зал, массажный кабинет, сауны и террасы с зоной workout. Рабочие пространства представлены библиотекой с панорамным видом на город, коворкингом оборудованными переговорными. В комплексе есть закрытый благоустроенный двор с амфитеатром для мероприятий, местами для работы и отдыха, зоной для барбекю, оборудованным спортивным кластером и двухуровневой детской площадкой. ",
+            "picture": "https://i.ibb.co/jZyqgS44/80fcc5730a352c669de0fd6f7973cced.jpg",
             "types": [
                 {
                     "id": "2",
                     "title": "Квартира"
                 }
             ],
-            "startBuildingDate": "30.01.2024",
-            "blocks": {
-                "infrastructure": {
-                    "description": "На общем стилобате, объединяющем корпуса, размещен закрытый внутренний двор-парк площадью в 2 гектара. На его территории размещены арт объекты, выполнен ландшафтный дизайн, оборудованы прогулочные, игровые и спортивные зоны. На крыше каждой башни спроектированы свои зоны отдыха с джакузи, барбекю зоной, всесезонными беседками с WI-FI и пространствами для занятия йогой. На территории комплекса находится частные детский сад и школа, музыкальный салон, гольф-симулятор, Gentlemen’s club с бильярдной, beauty-coworking, развивающий Kid’s club и всесезонная игровая комната. Для владельцев автомобилей предусмотрен подземный паркинг ",
-                    "pictures": []
-                },
-                "description": {
-                    "description": "Жилой комплекс состоит из 5 башен высотой в 45 и 46 этажей. В проекте  предложены планировки с огромными окнами и просторными балконами, радиусные панорамные квартиры и пентхаусы с дровяными каминами. Практически из всех квартир открываются завораживающие виды на Москву-реку и международный деловой центр «Москва-Сити». В комплексе представлены квартиры без отделки, с отделкой White box и с отделкой под ключ. Высота потолков от 3,1 до 6,1 метра.  Важной особенностью проекта является концепция «двор без ма  ин». ",
-                    "pictures": [
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/pmG2Vtq/640a9a6731195127bc3e1b0ad7dd3961.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/pmG2Vtq/640a9a6731195127bc3e1b0ad7dd3961.jpg"
-                            },
-                            "id": 0,
-                            "position": 0,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/Dg16K89q/4a552a75c8073c4a16da55a54ebf2a5a.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/Dg16K89q/4a552a75c8073c4a16da55a54ebf2a5a.jpg"
-                            },
-                            "id": 1,
-                            "position": 1,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/fzSgYHKB/1ab4832cfb2b591bf9b10f1940bc9f24.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/fzSgYHKB/1ab4832cfb2b591bf9b10f1940bc9f24.jpg"
-                            },
-                            "id": 2,
-                            "position": 2,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/6R2VyVg1/cc18d71fcedaef90d2e6d1dc9ad7ae42.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/6R2VyVg1/cc18d71fcedaef90d2e6d1dc9ad7ae42.jpg"
-                            },
-                            "id": 3,
-                            "position": 3,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/BVP6SSjg/9dfa61fbdee4a1f10241b739b9dac1e6.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/BVP6SSjg/9dfa61fbdee4a1f10241b739b9dac1e6.jpg"
-                            },
-                            "id": 4,
-                            "position": 4,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        }
-                    ]
-                },
-                "architecture": {
-                    "description": "Автором архитектурного проекта выступает одно из самых именитых отечественных бюро — ADM. Архитектура отличается уникальной пластикой фасадов с использованием панорамного остекления. У башен есть свои имена: Topaz, Emerald, Amber, Diamond и Lazur. В лобби выполнена премиальная отделка и предусмотрен консьерж сервис.",
-                    "pictures": []
-                }
-            },
             "finishingTypes": [
                 {
-                    "id": 1,
+                    "id": "1",
                     "title": "Без отделки"
-                },
-                {
-                    "id": 4,
-                    "title": "Подчистовая"
-                },
-                {
-                    "id": 3,
-                    "title": "Чистовая"
                 }
-            ],
+            ]
+        },
+        {
+            "id": "B6A749A7-98E8-40B7-B3FA-E7048ECBCCAC",
             "externalId": "B6A749A7-98E8-40B7-B3FA-E7048ECBCCAC",
-            "video": null,
             "title": "River Park Кутузовский",
-            "resaleoneyear": null,
-            "picture": "https://i.ibb.co/PvdYF4Yf/9dfa61fbdee4a1f10241b739b9dac1e6.jpg",
-            "pictures": null,
-            "investmentthreeyears": null,
-            "tags": null,
-            "priceFrom": {
-                "flat": {
-                    "currency": "RUB",
-                    "value": 25366974
-                }
-            },
             "location": {
-                "area": null,
-                "country": {
-                    "id": 440,
-                    "externalId": "D5200E79-C15D-4E7D-AC26-D2F9528B5FE5",
-                    "title": "Россия",
-                    "slug": ""
-                },
-                "metroList": null,
                 "address": "Дорогомилово, Кутузовский пр-кт",
                 "latitude": "55.744903",
-                "distanceToMetro": null,
-                "postcode": null,
-                "locality": null,
-                "highwayList": null,
-                "addressCollected": null,
-                "district2": null,
-                "district1": null,
-                "province": null,
-                "street": null,
-                "metro": null,
-                "district": null,
-                "transportAccessibilityMetro": null,
-                "distanceToMkad": null,
-                "id": 0,
-                "highway": null,
-                "transportAccessibilityHighway": null,
-                "longitude": "37.520079"
+                "longitude": "37.520079",
+                "country": {
+                    "id": 978,
+                    "title": "Россия"
+                }
             },
             "developer": "AEON",
-            "id": "d59d29aa-a2d9-47e4-a860-5573b8451a34",
-            "rentoneyear": null,
-            "endBuildingDate": "30.09.2028",
-            "class": null
-        },
-        {
+            "startBuildingDate": "2024-01-30",
+            "endBuildingDate": "2028-09-30",
+            "priceFrom": {
+                "flat": {
+                    "currency": "RUB",
+                    "value": "27483266"
+                }
+            },
+            "description": "Жилой комплекс состоит из 5 башен высотой в 45 и 46 этажей. В проекте предложены планировки с огромными окнами и просторными балконами, радиусные панорамные квартиры и пентхаусы с дровяными каминами. Практически из всех квартир открываются завораживающие виды на Москву-реку и международный деловой центр «Москва-Сити». В комплексе представлены квартиры без отделки, с отделкой White box и с отделкой под ключ. Высота потолков от 3,1 до 6,1 метра. Важной особенностью проекта является концепция «двор без ма ин». Автором архитектурного проекта выступает одно из самых именитых отечественных бюро — ADM. Архитектура отличается уникальной пластикой фасадов с использованием панорамного остекления. У башен есть свои имена: Topaz, Emerald, Amber, Diamond и Lazur. В лобби выполнена премиальная отделка и предусмотрен консьерж сервис. На общем стилобате, объединяющем корпуса, размещен закрытый внутренний двор-парк площадью в 2 гектара. На его территории размещены арт объекты, выполнен ландшафтный дизайн, оборудованы прогулочные, игровые и спортивные зоны. На крыше каждой башни спроектированы свои зоны отдыха с джакузи, барбекю зоной, всесезонными беседками с WI-FI и пространствами для занятия йогой. На территории комплекса находится частные детский сад и школа, музыкальный салон, гольф-симулятор, Gentlemen’s club с бильярдной, beauty-coworking, развивающий Kid’s club и всесезонная игровая комната. Для владельцев автомобилей предусмотрен подземный паркинг ",
+            "picture": "https://i.ibb.co/PvdYF4Yf/9dfa61fbdee4a1f10241b739b9dac1e6.jpg        ",
             "types": [
                 {
                     "id": "2",
                     "title": "Квартира"
                 }
             ],
-            "startBuildingDate": "30.01.2024",
-            "blocks": {
-                "infrastructure": {
-                    "description": "Для детей оборудована современная детская площадка с интересными игровыми элементами, а для взрослых — удобные спортивные площадки для активного отдыха. В комплексе предусмотрен круглосуточный ресепшен и видеонаблюдение за общественными зонами и периметром. Для владельцев автомобилей предусмотрен подземный паркинг.",
-                    "pictures": []
-                },
-                "description": {
-                    "description": "Жилой комплекс включает в себя 3 корпуса переменной этажности: 1 корпус от 14 до 41 этажей, 2 корпус от 18 до 33 этажей, 3 корпус от 10 до 14 этажей. В проекте предложено множество планировочных решений: в наличии квартиры, как классического типа, так и европланировки. Сдаются они с панорамными окнами и высотой потолков до 3,25 метра.",
-                    "pictures": [
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/HLRwB0x7/081ceae8729d0b1cf0a9b4d8c2c1e512.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/HLRwB0x7/081ceae8729d0b1cf0a9b4d8c2c1e512.jpg"
-                            },
-                            "id": 0,
-                            "position": 0,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/hFyfMLq9/6a861558f85fffef53968556449b21b8.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/hFyfMLq9/6a861558f85fffef53968556449b21b8.jpg"
-                            },
-                            "id": 1,
-                            "position": 1,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/dwtMC7pV/21497d1d7844416ea4bd0ce6604bccc7.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/dwtMC7pV/21497d1d7844416ea4bd0ce6604bccc7.jpg"
-                            },
-                            "id": 2,
-                            "position": 2,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        }
-                    ]
-                },
-                "architecture": {
-                    "description": "В создании проекта принимает участие архитектурное бюро «Остоженка». Выполнена дизайнерская отделка входных групп и установлены современные скоростные лифты. На первых этажах расположены колясочные, кладовые и лапомойки для домашних животных. ",
-                    "pictures": []
-                }
-            },
             "finishingTypes": [
                 {
-                    "id": 1,
-                    "title": "Без отделки"
+                    "id": "1",
+                    "title": "Без отделки\nПодчистовая        \nЧистовая"
                 }
-            ],
+            ]
+        },
+        {
+            "id": "3EC34B73-3803-4F9D-9398-AF25CE4537DC",
             "externalId": "3EC34B73-3803-4F9D-9398-AF25CE4537DC",
-            "video": null,
             "title": "Крылатская 33",
-            "resaleoneyear": null,
-            "picture": "https://i.ibb.co/5hmBJPPb/a6ac96cd53998dce56992b3a7641f562.jpg",
-            "pictures": null,
-            "investmentthreeyears": null,
-            "tags": null,
-            "priceFrom": {
-                "flat": {
-                    "currency": "RUB",
-                    "value": 14337634
-                }
-            },
             "location": {
-                "area": null,
-                "country": {
-                    "id": 731,
-                    "externalId": "41917E42-50EC-47A8-9F99-06370782B96F",
-                    "title": "Россия",
-                    "slug": ""
-                },
-                "metroList": null,
                 "address": "ул Крылатская",
                 "latitude": "55.771095",
-                "distanceToMetro": null,
-                "postcode": null,
-                "locality": null,
-                "highwayList": null,
-                "addressCollected": null,
-                "district2": null,
-                "district1": null,
-                "province": null,
-                "street": null,
-                "metro": null,
-                "district": null,
-                "transportAccessibilityMetro": null,
-                "distanceToMkad": null,
-                "id": 0,
-                "highway": null,
-                "transportAccessibilityHighway": null,
-                "longitude": "37.406193"
+                "longitude": "37.406193",
+                "country": {
+                    "id": 978,
+                    "title": "Россия"
+                }
             },
             "developer": "СЗ Сияние",
-            "id": "3cdc6142-4e44-4bf6-92b5-b8c9a579e1ae",
-            "rentoneyear": null,
-            "endBuildingDate": "30.12.2027",
-            "class": null
-        },
-        {
+            "startBuildingDate": "2024-01-30",
+            "endBuildingDate": "2027-12-30",
+            "priceFrom": {
+                "flat": {
+                    "currency": "RUB",
+                    "value": "17338192"
+                }
+            },
+            "description": "Жилой комплекс включает в себя 3 корпуса переменной этажности: 1 корпус от 14 до 41 этажей, 2 корпус от 18 до 33 этажей, 3 корпус от 10 до 14 этажей. В проекте предложено множество планировочных решений: в наличии квартиры, как классического типа, так и европланировки. Сдаются они с панорамными окнами и высотой потолков до 3,25 метра. В создании проекта принимает участие архитектурное бюро «Остоженка». Выполнена дизайнерская отделка входных групп и установлены современные скоростные лифты. На первых этажах расположены колясочные, кладовые и лапомойки для домашних животных. Для детей оборудована современная детская площадка с интересными игровыми элементами, а для взрослых — удобные спортивные площадки для активного отдыха. В комплексе предусмотрен круглосуточный ресепшен и видеонаблюдение за общественными зонами и периметром. Для владельцев автомобилей предусмотрен подземный паркинг.",
+            "picture": "https://i.ibb.co/5hmBJPPb/a6ac96cd53998dce56992b3a7641f562.jpg",
             "types": [
                 {
                     "id": "2",
                     "title": "Квартира"
                 }
             ],
-            "startBuildingDate": "30.01.2024",
-            "blocks": {
-                "infrastructure": {
-                    "description": "На территории проекта спроектирован эко парк на 17 га. Он включает в себя смотровые площадки, пляжные зоны, спуск к реке, зону лесного отдыха, детские, спортивные, рекреационные и экологические площадки, прогулочные тропы и велодорожки, а также зону воркаут. На территории ЖК продуман центральный прогулочный бульвар, который включает в себя: 4 функциональные зоны, детские площадки с батутами и современны  и игровыми комплексами, непрерывные беговые дорожки и спортивные комплексы марки Kompan, лаунж-зоны с качелями, шезлонгами и лавочки с WiFi.",
-                    "pictures": []
-                },
-                "description": {
-                    "description": "В ЖК представлены видовые двухуровневые пентхаусы, а также квартиры с патио и террасами. Всего в квартале доступно более 120 планировочных решений площадью от 40 до 192 квадратных метров. Большое количество квартир имеют вид на реку. ",
-                    "pictures": [
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/YFRpFmM9/b67d51396181aaac3af2e468fce0f296.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/YFRpFmM9/b67d51396181aaac3af2e468fce0f296.jpg"
-                            },
-                            "id": 0,
-                            "position": 0,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/93Gncz8q/199ec93c1c68dff43323b726f62a418c.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/93Gncz8q/199ec93c1c68dff43323b726f62a418c.jpg"
-                            },
-                            "id": 1,
-                            "position": 1,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/sYrymBt/9a97e57a758c462f213f046158111405.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/sYrymBt/9a97e57a758c462f213f046158111405.jpg"
-                            },
-                            "id": 2,
-                            "position": 2,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/LdFpX1Qy/2455e21c2dc5378a349d600d320c70ac.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/LdFpX1Qy/2455e21c2dc5378a349d600d320c70ac.jpg"
-                            },
-                            "id": 3,
-                            "position": 3,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/7xkWmV61/a708e247bb1b4d37121680d769641e91.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/7xkWmV61/a708e247bb1b4d37121680d769641e91.jpg"
-                            },
-                            "id": 4,
-                            "position": 4,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/5htRN19c/b739f8fc73977fa46077c0596716bb14.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/5htRN19c/b739f8fc73977fa46077c0596716bb14.jpg"
-                            },
-                            "id": 5,
-                            "position": 5,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        }
-                    ]
-                },
-                "architecture": {
-                    "description": "Проект представляет собой комплексную застройку переменной этажности от 2 до 22 этажей в стиле неоклассики и ар-деко. Авторами проекта выступил   архитектурная мастерская Atrium. Отделка фасадов выполнена алюминиевыми композитными панелями, керамогранитом, стемалитом. В лобби сделана уникальная дизайнерская отделка, спроектированы колясочные и почтовые комнаты.",
-                    "pictures": []
-                }
-            },
             "finishingTypes": [
                 {
-                    "id": 1,
+                    "id": "1",
                     "title": "Без отделки"
                 }
-            ],
-            "externalId": "E2D3E242-C1BB-419B-BB44-322C616A80DE",
-            "video": null,
+            ]
+        },
+        {
+            "id": "E2D3E242-C1BB-419B-BB44-322C616A80DE\t\n",
+            "externalId": "E2D3E242-C1BB-419B-BB44-322C616A80DE\t\n",
             "title": "Primavera",
-            "resaleoneyear": null,
-            "picture": "https://i.ibb.co/Ndp0Bp3G/c12cd68841bbc92a44180596007cbe04.jpg",
-            "pictures": null,
-            "investmentthreeyears": null,
-            "tags": null,
-            "priceFrom": {
-                "flat": {
-                    "currency": "RUB",
-                    "value": 23484950
-                }
-            },
             "location": {
-                "area": null,
-                "country": {
-                    "id": 865,
-                    "externalId": "4425B9D0-40B0-4EC4-AFFB-6F94A00CFBDB",
-                    "title": "Россия",
-                    "slug": ""
-                },
-                "metroList": null,
                 "address": "Покровское-Стрешнево, Волоколамское шоссе",
                 "latitude": "55.813872",
-                "distanceToMetro": null,
-                "postcode": null,
-                "locality": null,
-                "highwayList": null,
-                "addressCollected": null,
-                "district2": null,
-                "district1": null,
-                "province": null,
-                "street": null,
-                "metro": null,
-                "district": null,
-                "transportAccessibilityMetro": null,
-                "distanceToMkad": null,
-                "id": 0,
-                "highway": null,
-                "transportAccessibilityHighway": null,
-                "longitude": "37.425461"
+                "longitude": "37.425461",
+                "country": {
+                    "id": 978,
+                    "title": "Россия"
+                }
             },
             "developer": "Стадион Спартак",
-            "id": "86f0ae78-9625-4f72-8db7-51bb92d4bd08",
-            "rentoneyear": null,
-            "endBuildingDate": "30.12.2028",
-            "class": null
-        },
-        {
-            "types": [
-                {
-                    "id": "6",
-                    "title": "Офисное помещение"
-                }
-            ],
-            "startBuildingDate": "30.01.2024",
-            "blocks": {
-                "infrastructure": {
-                    "description": "Собственная инфраструктура бизнес-центра включает в себя кафе и рестораны с летними верандами, столовую для сотрудников, бизнес-гостиную с кофейней и оборудованный конференц-зал. Для резидентов предусмотрен подземный двухуровневый паркинг с зарядками для электромобилей и мотоместами. Офисные башни с метро связывает благоустроенная площадь с местами для прогулок и отдыха, павильонами для работы на открытом воздухе и арт-объектами.",
-                    "pictures": []
-                },
-                "description": {
-                    "description": "В проекте предложены офисные помещения площадью от 43 кв. метров до офисных этажей целиком, а также угловые офисы, офисы на три стороны света и видовые офисные этажи. Каждый офис имеет прямой вход из лифтового холла, собственные мокрые точки, удобный доступ к сервисному лифту. Помещения имеют оптимальную глубину этажа и высоту потолков от 3,65 метра. Панорамные энергоэффективные окна обеспечивают высокий уровень инсоляции и возможность естественного проветривания.",
-                    "pictures": [
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/jPmby909/46df57b9c09ab0c3fc0fdb9f5ad7b778.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/jPmby909/46df57b9c09ab0c3fc0fdb9f5ad7b778.jpg"
-                            },
-                            "id": 0,
-                            "position": 0,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/Cspd0QWR/8146655c4f7f23c4a24b830a65d4efb7.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/Cspd0QWR/8146655c4f7f23c4a24b830a65d4efb7.jpg"
-                            },
-                            "id": 1,
-                            "position": 1,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/hQ18TKw/6b9c4dd9bff247596d537dfa7875b77e.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/hQ18TKw/6b9c4dd9bff247596d537dfa7875b77e.jpg"
-                            },
-                            "id": 2,
-                            "position": 2,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        }
-                    ]
-                },
-                "architecture": {
-                    "description": "Офисный квартал класса «А» состоит из 3 разноэтажных башен, объединенных общим стилобатом. Архитектурная концепция проекта разработана бюро Kleinewelt Аrchitekten. Архитектурной особенностью офисных башен станут динамичные, устремленные вверх объемы последних этажей. ",
-                    "pictures": []
+            "startBuildingDate": "2024-01-30",
+            "endBuildingDate": "2028-12-30",
+            "priceFrom": {
+                "flat": {
+                    "currency": "RUB",
+                    "value": "24804800"
                 }
             },
+            "description": "Проект представляет собой комплексную застройку переменной этажности от 2 до 22 этажей в стиле неоклассики и ар-деко. Авторами проекта выступил архитектурная мастерская Atrium. Отделка фасадов выполнена алюминиевыми композитными панелями, керамогранитом, стемалитом. В лобби сделана уникальная дизайнерская отделка, спроектированы колясочные и почтовые комнаты. На территории проекта спроектирован эко парк на 17 га. Он включает в себя смотровые площадки, пляжные зоны, спуск к реке, зону лесного отдыха, детские, спортивные, рекреационные и экологические площадки, прогулочные тропы и велодорожки, а также зону воркаут. На территории ЖК продуман центральный прогулочный бульвар, который включает в себя: 4 функциональные зоны, детские площадки с батутами и современны и игровыми комплексами, непрерывные беговые дорожки и спортивные комплексы марки Kompan, лаунж-зоны с качелями, шезлонгами и лавочки с WiFi. В ЖК представлены видовые двухуровневые пентхаусы, а также квартиры с патио и террасами. Всего в квартале доступно более 120 планировочных решений площадью от 40 до 192 квадратных метров. Большое количество квартир имеют вид на реку. ",
+            "picture": "https://i.ibb.co/Ndp0Bp3G/c12cd68841bbc92a44180596007cbe04.jpg\t\n",
+            "types": [
+                {
+                    "id": "2",
+                    "title": "Квартира"
+                }
+            ],
             "finishingTypes": [
                 {
-                    "id": 1,
+                    "id": "1",
                     "title": "Без отделки"
                 }
-            ],
-            "externalId": "E5F26FC5-1026-4AC7-80C7-486A5FBAAAF3",
-            "video": null,
-            "title": "Stone Калужская ",
-            "resaleoneyear": null,
-            "picture": "https://i.ibb.co/sv8k8yTR/04c4d12f2acdebddc7e8ecec1ea276ab.jpg",
-            "pictures": null,
-            "investmentthreeyears": null,
-            "tags": null,
+            ]
+        },
+        {
+            "id": "E5F26FC5-1026-4AC7-80C7-486A5FBAAAF3\t\n",
+            "externalId": "E5F26FC5-1026-4AC7-80C7-486A5FBAAAF3\t\n",
+            "title": "Stone Калужская ",
+            "location": {
+                "address": "Обручевский, Старокалужское шоссе\n",
+                "latitude": "55.658775",
+                "longitude": "37.537647",
+                "country": {
+                    "id": 978,
+                    "title": "Россия"
+                }
+            },
+            "developer": "STONE",
+            "startBuildingDate": "2024-01-30",
+            "endBuildingDate": "2028-09-30",
             "priceFrom": {
                 "flat": {
                     "currency": "RUB",
-                    "value": 24180000
+                    "value": "27360000"
                 }
             },
-            "location": {
-                "area": null,
-                "country": {
-                    "id": 676,
-                    "externalId": "CE6B6246-7A68-4FA7-AFE5-12815B0387FC",
-                    "title": "Россия",
-                    "slug": ""
-                },
-                "metroList": null,
-                "address": "Обручевский, Старокалужское шоссе",
-                "latitude": "55.658775",
-                "distanceToMetro": null,
-                "postcode": null,
-                "locality": null,
-                "highwayList": null,
-                "addressCollected": null,
-                "district2": null,
-                "district1": null,
-                "province": null,
-                "street": null,
-                "metro": null,
-                "district": null,
-                "transportAccessibilityMetro": null,
-                "distanceToMkad": null,
-                "id": 0,
-                "highway": null,
-                "transportAccessibilityHighway": null,
-                "longitude": "37.537647"
-            },
-            "developer": "STONE",
-            "id": "2b0e6d7e-81b0-4896-9402-edf869af56b2",
-            "rentoneyear": null,
-            "endBuildingDate": "30.09.2028",
-            "class": null
-        },
-        {
+            "description": "Офисный квартал класса «А» состоит из 3 разноэтажных башен, объединенных общим стилобатом. Архитектурная концепция проекта разработана бюро Kleinewelt Аrchitekten. Архитектурной особенностью офисных башен станут динамичные, устремленные вверх объемы последних этажей. В проекте предложены офисные помещения площадью от 43 кв. метров до офисных этажей целиком, а также угловые офисы, офисы на три стороны света и видовые офисные этажи. Каждый офис имеет прямой вход из лифтового холла, собственные мокрые точки, удобный доступ к сервисному лифту. Помещения имеют оптимальную глубину этажа и высоту потолков от 3,65 метра. Панорамные энергоэффективные окна обеспечивают высокий уровень инсоляции и возможность естественного проветривания. Собственная инфраструктура бизнес-центра включает в себя кафе и рестораны с летними верандами, столовую для сотрудников, бизнес-гостиную с кофейней и оборудованный конференц-зал. Для резидентов предусмотрен подземный двухуровневый паркинг с зарядками для электромобилей и мотоместами. Офисные башни с метро связывает благоустроенная площадь с местами для прогулок и отдыха, павильонами для работы на открытом воздухе и арт-объектами.",
+            "picture": "https://i.ibb.co/sv8k8yTR/04c4d12f2acdebddc7e8ecec1ea276ab.jpg",
             "types": [
                 {
-                    "id": "6",
+                    "id": "2",
                     "title": "Офисное помещение"
                 }
             ],
-            "startBuildingDate": "30.01.2024",
-            "blocks": {
-                "infrastructure": {
-                    "description": "Собственная инфраструктура офисного квартала включает в себя столовую для сотрудников, премиальную фитнес-студию, аптеки, салоны красоты, кафе и рестораны с летней верандой, бизнес-гостиную с видом на парк. Для резидентов квартала предусмотрен много  ровневый подземный паркинг. ",
-                    "pictures": []
-                },
-                "description": {
-                    "description": "Офисный квартал состоит из 3 башен высотой от 13 до 23 этажей. В проекте предложены офисные помещения площадью от 42 кв. метров до офисных этажей целиком. Помещения имеют оптимальную глубину этажа от 8 до 12 метров и высоту потолков от 3,65 метра. Панорамные энергоэффективные окна обеспечивают высокий уровень инсоляции и возможность естественного проветривания. ",
-                    "pictures": [
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/vv6YJXC8/36f6a844d5799a2b724d202bb8282b9b.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/vv6YJXC8/36f6a844d5799a2b724d202bb8282b9b.jpg"
-                            },
-                            "id": 0,
-                            "position": 0,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/tM4SvQgn/77055a1275f5263afadc8b57f8332c06.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/tM4SvQgn/77055a1275f5263afadc8b57f8332c06.jpg"
-                            },
-                            "id": 1,
-                            "position": 1,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        }
-                    ]
-                },
-                "architecture": {
-                    "description": "Фасады башен от бюро PARSEC выполнены в панорамном остеклении с изящными линиями из алюминиевых ламелей, а их основание — из натурального камня. В зданиях спроектированы просторные двусветные лобби с высотой потолков до 8 метров.",
-                    "pictures": []
-                }
-            },
             "finishingTypes": [
                 {
-                    "id": 1,
-                    "title": "Без отде  ки"
+                    "id": "1",
+                    "title": "Без отделки"
                 }
-            ],
+            ]
+        },
+        {
+            "id": "7FAC9D01-1CBE-4211-B138-D85D3B01FF56",
             "externalId": "7FAC9D01-1CBE-4211-B138-D85D3B01FF56",
-            "video": null,
             "title": "STONE Ходынка",
-            "resaleoneyear": null,
-            "picture": "https://i.ibb.co/DfQWQzL1/36f6a844d5799a2b724d202bb8282b9b.jpg",
-            "pictures": null,
-            "investmentthreeyears": null,
-            "tags": null,
-            "priceFrom": {
-                "flat": {
-                    "currency": "RUB",
-                    "value": 27224000
-                }
-            },
             "location": {
-                "area": null,
-                "country": {
-                    "id": 623,
-                    "externalId": "4E25707B-B43F-49B1-927B-2CF3E08CF83C",
-                    "title": "Россия",
-                    "slug": ""
-                },
-                "metroList": null,
                 "address": "Хорошевский, Ходынский б-р",
                 "latitude": "55.787832",
-                "distanceToMetro": null,
-                "postcode": null,
-                "locality": null,
-                "highwayList": null,
-                "addressCollected": null,
-                "district2": null,
-                "district1": null,
-                "province": null,
-                "street": null,
-                "metro": null,
-                "district": null,
-                "transportAccessibilityMetro": null,
-                "distanceToMkad": null,
-                "id": 0,
-                "highway": null,
-                "transportAccessibilityHighway": null,
-                "longitude": "37.535829"
+                "longitude": "37.535829",
+                "country": {
+                    "id": 978,
+                    "title": "Россия"
+                }
             },
             "developer": "STONE",
-            "id": "63ff3547-8438-4f25-a0a5-639187fda00a",
-            "rentoneyear": null,
-            "endBuildingDate": "30.09.2027",
-            "class": null
-        },
-        {
-            "types": [
-                {
-                    "id": "2",
-                    "title": "Квартира"
-                }
-            ],
-            "startBuildingDate": "30.01.2024",
-            "blocks": {
-                "infrastructure": {
-                    "description": "В жилом комплексе созданы все условия для комфортной жизни: закрытая охраняемая территория с круглосуточным видеонаблюдением, уютные дворы с зонами отдыха и современными детскими и спортивными площадками. Для владельцев автомобилей в комплексе предусмотрен подземный паркинг на 503 машино-места с возможностью установки электрозарядных станций.",
-                    "pictures": []
-                },
-                "description": {
-                    "description": "В лобби комплекса расположены колясочная, зоны ожидания, фитнес-зал, общественная гостиная и коворкинг. В домах установлены современные скоростные лифты VEXT с дизайнерской отделкой кабин, по 2-4 лифта на корпус.",
-                    "pictures": [
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/F4T5qPBV/9dfb0140e0845fab012c86cf92e5a367.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/F4T5qPBV/9dfb0140e0845fab012c86cf92e5a367.jpg"
-                            },
-                            "id": 0,
-                            "position": 0,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/Lzkv9X2C/788907cccb7c48c008318cf76ae9a774.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/Lzkv9X2C/788907cccb7c48c008318cf76ae9a774.jpg"
-                            },
-                            "id": 1,
-                            "position": 1,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/7JW7DHv5/63f33ea1a346cdad8e37986e499d9f04.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/7JW7DHv5/63f33ea1a346cdad8e37986e499d9f04.jpg"
-                            },
-                            "id": 2,
-                            "position": 2,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/5XLxpSbS/1d3aa3ab4e60317490860023eb68345b.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/5XLxpSbS/1d3aa3ab4e60317490860023eb68345b.jpg"
-                            },
-                            "id": 3,
-                            "position": 3,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/5xGbhxsB/aec86b9674ab1b91930129d062afc63c.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/5xGbhxsB/aec86b9674ab1b91930129d062afc63c.jpg"
-                            },
-                            "id": 4,
-                            "position": 4,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/pSCNPD1/322df499042608e00310e6ff537f1194.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/pSCNPD1/322df499042608e00310e6ff537f1194.jpg"
-                            },
-                            "id": 5,
-                            "position": 5,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/DfRk9Ynq/b5d236d84148d8a010aa11c28d456c19.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/DfRk9Ynq/b5d236d84148d8a010aa11c28d456c19.jpg"
-                            },
-                            "id": 6,
-                            "position": 6,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        }
-                    ]
-                },
-                "architecture": {
-                    "description": "Жилой комплекс состоит из 6 корпусов переменной этажности высотой от 7 до 33 этажей. Внешний фасад строгий и сдержанный, выполнен из анодированного алюминия. В противовес ему внутренний фасад, облицованный ригельным кирпичом. Здания оснащены архитектурной подсветкой.",
-                    "pictures": []
-                }
-            },
-            "finishingTypes": [
-                {
-                    "id": 4,
-                    "title": "Подчистовая"
-                }
-            ],
-            "externalId": "a1be1edd-9653-42a7-912a-f1e8606f9da4",
-            "video": null,
-            "title": "Pave",
-            "resaleoneyear": null,
-            "picture": "https://i.ibb.co/8LW747k8/b5d236d84148d8a010aa11c28d456c19.jpg",
-            "pictures": null,
-            "investmentthreeyears": null,
-            "tags": null,
+            "startBuildingDate": "2024-01-30",
+            "endBuildingDate": "2027-09-30",
             "priceFrom": {
                 "flat": {
                     "currency": "RUB",
-                    "value": 14955000
+                    "value": "32916000"
                 }
             },
-            "location": {
-                "area": null,
-                "country": {
-                    "id": 177,
-                    "externalId": "5F6D3DEC-E0F4-4288-9B44-A252D0A3B189",
-                    "title": "Россия",
-                    "slug": ""
-                },
-                "metroList": null,
-                "address": "г. Москва, Даниловский, 2-й Павелецкий проезд",
-                "latitude": "55.712498",
-                "distanceToMetro": null,
-                "postcode": null,
-                "locality": null,
-                "highwayList": null,
-                "addressCollected": "string",
-                "district2": null,
-                "district1": null,
-                "province": null,
-                "street": null,
-                "metro": null,
-                "district": null,
-                "transportAccessibilityMetro": null,
-                "distanceToMkad": null,
-                "id": 100,
-                "highway": null,
-                "transportAccessibilityHighway": null,
-                "longitude": "37.643049"
-            },
-            "developer": "FORMA",
-            "id": "a1be1edd-9653-42a7-912a-f1e8606f9da4",
-            "rentoneyear": null,
-            "endBuildingDate": "30.03.2029",
-            "class": null
-        },
-        {
+            "description": "Офисный квартал состоит из 3 башен высотой от 13 до 23 этажей. В проекте предложены офисные помещения площадью от 42 кв. метров до офисных этажей целиком. Помещения имеют оптимальную глубину этажа от 8 до 12 метров и высоту потолков от 3,65 метра. Панорамные энергоэффективные окна обеспечивают высокий уровень инсоляции и возможность естественного проветривания. Фасады башен от бюро PARSEC выполнены в панорамном остеклении с изящными линиями из алюминиевых ламелей, а их основание — из натурального камня. В зданиях спроектированы просторные двусветные лобби с высотой потолков до 8 метров. Собственная инфраструктура офисного квартала включает в себя столовую для сотрудников, премиальную фитнес-студию, аптеки, салоны красоты, кафе и рестораны с летней верандой, бизнес-гостиную с видом на парк. Для резидентов квартала предусмотрен много ровневый подземный паркинг. ",
+            "picture": "https://i.ibb.co/DfQWQzL1/36f6a844d5799a2b724d202bb8282b9b.jpg",
             "types": [
                 {
                     "id": "2",
-                    "title": "Квартира"
-                }
-            ],
-            "startBuildingDate": "30.01.2024",
-            "blocks": {
-                "infrastructure": {
-                    "description": "На территории комплекса спроектированы детский сад и школа, детские и спортивные площадки из натуральных материалов. Для владельцев автомобилей оборудован охраняемый подземный паркинг на 795 машиномест. Есть кладовые для хранения сезонных вещей. ",
-                    "pictures": []
-                },
-                "description": {
-                    "description": "В жилом комплексе представлено множество планировочных решений европейского формата. Сдаются они с подчистовой отделкой и высотой потолков от 2,83 до 3,6 метра. Есть возможность объединения планировок. Из большей части квартир открывается прекрасный вид на парк.",
-                    "pictures": [
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/QtS2NmF/c248d2500d6b386090a08f2c0080b797.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/QtS2NmF/c248d2500d6b386090a08f2c0080b797.jpg"
-                            },
-                            "id": 0,
-                            "position": 0,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/hRj971yb/652872697dcc305ad8688f28cad90179.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/hRj971yb/652872697dcc305ad8688f28cad90179.jpg"
-                            },
-                            "id": 1,
-                            "position": 1,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/C3PDCqWD/6eea1ec1c69af403df70b94076937afa.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/C3PDCqWD/6eea1ec1c69af403df70b94076937afa.jpg"
-                            },
-                            "id": 2,
-                            "position": 2,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/Hf5rR7JT/b5ce3580f979b659c1852681d7c3b894.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/Hf5rR7JT/b5ce3580f979b659c1852681d7c3b894.jpg"
-                            },
-                            "id": 3,
-                            "position": 3,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/DP7j8MGF/23bf4b64e5347f984097dc89f153a91a.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/DP7j8MGF/23bf4b64e5347f984097dc89f153a91a.jpg"
-                            },
-                            "id": 4,
-                            "position": 4,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/G3MTwL5D/2bca3fc93588c3507089dadece683afe.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/G3MTwL5D/2bca3fc93588c3507089dadece683afe.jpg"
-                            },
-                            "id": 5,
-                            "position": 5,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        }
-                    ]
-                },
-                "architecture": {
-                    "description": "Жилой комплекс включает 8 корпусов высотой от 4 до 47 этажей. В отделке фасадов используются витражное остекление и композитные панели. В проекте предусмотрены дизайнерские входные группы с использованием природных материалов, а в лобби находятся лаундж-зона и коворкинг. ",
-                    "pictures": []
-                }
-            },
-            "finishingTypes": [
-                {
-                    "id": 4,
-                    "title": "Подчистовая"
-                }
-            ],
-            "externalId": "70cbc28d-c025-4d08-a486-6bf0dcc4c577",
-            "video": null,
-            "title": "Moments",
-            "resaleoneyear": null,
-            "picture": "https://i.ibb.co/275XkLvw/2bca3fc93588c3507089dadece683afe.jpg",
-            "pictures": null,
-            "investmentthreeyears": null,
-            "tags": null,
-            "priceFrom": {
-                "flat": {
-                    "currency": "RUB",
-                    "value": 12191920
-                }
-            },
-            "location": {
-                "area": null,
-                "country": {
-                    "id": 903,
-                    "externalId": "D2372C37-1932-444F-A1E8-F78674A80242",
-                    "title": "Россия",
-                    "slug": ""
-                },
-                "metroList": null,
-                "address": "Щукино, г Москва, 3-й Красногорский проезд",
-                "latitude": "55.812928",
-                "distanceToMetro": null,
-                "postcode": null,
-                "locality": null,
-                "highwayList": null,
-                "addressCollected": "string",
-                "district2": null,
-                "district1": null,
-                "province": null,
-                "street": null,
-                "metro": null,
-                "district": null,
-                "transportAccessibilityMetro": null,
-                "distanceToMkad": null,
-                "id": 100,
-                "highway": null,
-                "transportAccessibilityHighway": null,
-                "longitude": "37.481991"
-            },
-            "developer": "FORMA",
-            "id": "70cbc28d-c025-4d08-a486-6bf0dcc4c577",
-            "rentoneyear": null,
-            "endBuildingDate": "30.09.2027",
-            "class": null
-        },
-        {
-            "types": [
-                {
-                    "id": "2",
-                    "title": "Квартира"
-                }
-            ],
-            "startBuildingDate": "30.01.2024",
-            "blocks": {
-                "infrastructure": {
-                    "description": "Инфраструктура комплекса доступна исключительно резидентам и включает Sky Bridge — стеклянный мост на высоте 83 этажа, и собственный парк на 85 этаже. На 35 этаже расположено пространство Sky Lobby с панорамными видами, фитнес-центрами, кинозалом, бильярдной, библиотекой, коворкингом, зоной активного отдыха, игровыми для детей и подростков. Также доступны торговая галерея, медицинский кластер и трехуровневый подземный паркинг. Места общего пользования оформлены американской студией с 60-летним опытом в дизайне премиального сегмента. Территория оснащена круглосуточным видеонаблюдением и охраной.",
-                    "pictures": []
-                },
-                "description": {
-                    "description": "В комплексе предлагаются квартиры с 1–3 спальнями, в том числе европланировки, а также пентхаусы и офисные пространства. Высота потолков достигает 3 метров, во всех помещениях предусмотрены панорамные окна. Из ряда квартир открываются виды на Москва-Сити, центр города, сталинские высотки и Москву-реку.",
-                    "pictures": [
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/QtS2NmF/c248d2500d6b386090a08f2c0080b797.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/QtS2NmF/c248d2500d6b386090a08f2c0080b797.jpg"
-                            },
-                            "id": 0,
-                            "position": 0,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/hRj971yb/652872697dcc305ad8688f28cad90179.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/hRj971yb/652872697dcc305ad8688f28cad90179.jpg"
-                            },
-                            "id": 1,
-                            "position": 1,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/C3PDCqWD/6eea1ec1c69af403df70b94076937afa.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/C3PDCqWD/6eea1ec1c69af403df70b94076937afa.jpg"
-                            },
-                            "id": 2,
-                            "position": 2,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/Hf5rR7JT/b5ce3580f979b659c1852681d7c3b894.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/Hf5rR7JT/b5ce3580f979b659c1852681d7c3b894.jpg"
-                            },
-                            "id": 3,
-                            "position": 3,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/DP7j8MGF/23bf4b64e5347f984097dc89f153a91a.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/DP7j8MGF/23bf4b64e5347f984097dc89f153a91a.jpg"
-                            },
-                            "id": 4,
-                            "position": 4,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/G3MTwL5D/2bca3fc93588c3507089dadece683afe.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/G3MTwL5D/2bca3fc93588c3507089dadece683afe.jpg"
-                            },
-                            "id": 5,
-                            "position": 5,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        }
-                    ]
-                },
-                "architecture": {
-                    "description": "Проект представлен 90-этажным зданием высотой 379 метров. Архитектурная концепция разработана Сергеем Кузнецовым и бюро Genpro: 2 соединенные башни образуют форму ленты Мебиуса — символа движения и непрерывности. Здание построено по монолитной технологии с фасадным остеклением и оснащено пассажирскими и грузовыми лифтами. Архитектурная подсветка меняется в течение дня: от утреннего свечения до вечерней яркости и ночного режима.",
-                    "pictures": []
-                }
-            },
-            "finishingTypes": [
-                {
-                    "id": 4,
-                    "title": "Подчистовая"
-                }
-            ],
-            "externalId": "3d9b461f-424b-46dd-ab05-80ed8102ddcc",
-            "video": null,
-            "title": "One",
-            "resaleoneyear": null,
-            "picture": "https://i.ibb.co/k2LrBC7n/e3c00c2534d76015ab385ff1a59d7477.jpg",
-            "pictures": null,
-            "investmentthreeyears": null,
-            "tags": null,
-            "priceFrom": {
-                "flat": {
-                    "currency": "RUB",
-                    "value": 47318700
-                }
-            },
-            "location": {
-                "area": null,
-                "country": {
-                    "id": 463,
-                    "externalId": "32741442-0DB8-40D7-8219-E2786831F0B0",
-                    "title": "Россия",
-                    "slug": ""
-                },
-                "metroList": null,
-                "address": "Москва, Пресненский, 1-й Красногвардейский проезд",
-                "latitude": "55.751531",
-                "distanceToMetro": null,
-                "postcode": null,
-                "locality": null,
-                "highwayList": null,
-                "addressCollected": "string",
-                "district2": null,
-                "district1": null,
-                "province": null,
-                "street": null,
-                "metro": null,
-                "district": null,
-                "transportAccessibilityMetro": null,
-                "distanceToMkad": null,
-                "id": 100,
-                "highway": null,
-                "transportAccessibilityHighway": null,
-                "longitude": "37.539837"
-            },
-            "developer": "MR Group",
-            "id": "3d9b461f-424b-46dd-ab05-80ed8102ddcc",
-            "rentoneyear": null,
-            "endBuildingDate": "30.12.2030",
-            "class": null
-        },
-        {
-            "types": [
-                {
-                    "id": "2",
-                    "title": "Квартира"
-                }
-            ],
-            "startBuildingDate": "30.01.2024",
-            "blocks": {
-                "infrastructure": {
-                    "description": "На территории комплекса размещены коммерческие помещения, офисные здания, блок начальных классов и детские сады. Важной частью проекта является благоустроенная набережная, которая органично соединяется с парком Северного речного вокзала и создает уникальное прогулочное пространство. На крыше корпуса 7.3 для жителей комплекса открыта обзорная смотровая площадка.",
-                    "pictures": []
-                },
-                "description": {
-                    "description": "Первая очередь включает в себя 3 монолитных жилых корпуса переменной этажности высотой от 19 до 58 этажей. В домах установлены скоростные пассажирские и грузовые лифты. В местах общего пользования выполнена дизайнерская отделка, в корпусе 7.3 расположен парадный холл с декоративным освещением, лаунж-зоной, детской игровой комнатой и колясочной.",
-                    "pictures": [
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/q3N703gS/fb39022fca6e494e7a0a8ee0e3b9a726.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/q3N703gS/fb39022fca6e494e7a0a8ee0e3b9a726.jpg"
-                            },
-                            "id": 0,
-                            "position": 0,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/7J3NC3nk/3167af58a8423e537eed1c45c66ce497.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/7J3NC3nk/3167af58a8423e537eed1c45c66ce497.jpg"
-                            },
-                            "id": 1,
-                            "position": 1,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        },
-                        {
-                            "middle": {
-                                "url": "https://i.ibb.co/k24Cybcm/07ccf970c085b333c85be8ff72b5cbe8.jpg"
-                            },
-                            "large": {
-                                "url": "https://i.ibb.co/k24Cybcm/07ccf970c085b333c85be8ff72b5cbe8.jpg"
-                            },
-                            "id": 2,
-                            "position": 2,
-                            "group": {
-                                "id": 0,
-                                "title": "string",
-                                "slug": "string"
-                            }
-                        }
-                    ]
-                },
-                "architecture": {
-                    "description": "Проект строится в 3 очереди. Первая очередь включает в себя 3 монолитных жилых корпуса переменной этажности высотой от 19 до 58 этажей. ",
-                    "pictures": []
-                }
-            },
-            "finishingTypes": null,
-            "externalId": "aa0370eb-deb2-4db1-98e5-ad1199efeffa",
-            "video": null,
-            "title": "Северный порт",
-            "resaleoneyear": null,
-            "picture": "https://i.ibb.co/mCkYMqv8/07ccf970c085b333c85be8ff72b5cbe8.jpg",
-            "pictures": null,
-            "investmentthreeyears": null,
-            "tags": null,
-            "priceFrom": {
-                "flat": {
-                    "currency": "RUB",
-                    "value": 17272500
-                }
-            },
-            "location": {
-                "area": null,
-                "country": {
-                    "id": 828,
-                    "externalId": "F3FB9E92-3AE7-4FE3-A7C0-7E07B4317ECC",
-                    "title": "Россия",
-                    "slug": ""
-                },
-                "metroList": null,
-                "address": "Москва, Левобережный, Ленинградское шоссе",
-                "latitude": "55.864106",
-                "distanceToMetro": null,
-                "postcode": null,
-                "locality": null,
-                "highwayList": null,
-                "addressCollected": "string",
-                "district2": null,
-                "district1": null,
-                "province": null,
-                "street": null,
-                "metro": null,
-                "district": null,
-                "transportAccessibilityMetro": null,
-                "distanceToMkad": null,
-                "id": 100,
-                "highway": null,
-                "transportAccessibilityHighway": null,
-                "longitude": "37.459649"
-            },
-            "developer": "LEGENDA",
-            "id": "aa0370eb-deb2-4db1-98e5-ad1199efeffa",
-            "rentoneyear": null,
-            "endBuildingDate": "30.12.2028",
-            "class": null
-        },
-        {
-            "types": [
-                {
-                    "id": "6",
                     "title": "Офисное помещение"
                 }
             ],
-            "startBuildingDate": "30.01.2024",
-            "blocks": {
-                "infrastructure": {
-                    "description": "В проекте насыщенная инфраструктура: ритейл на первых двух этажах, столовая, фитнес, коворкинг и кафе с верандами. В общественных зонах предусмотрены амфитеатр, PlayHub для активного отдыха, уличный офис и пространства для деловых встреч на открытом воздухе. Также на территории возможно проведение мероприятий, ярмарок и командных игр. На всей территории доступен Wi-Fi и усиленная мобильная связь. Для автомобилистов предусмотрен подземный паркинг на 400 машиномест.",
-                    "pictures": []
-                },
-                "description": {
-                    "description": "В продаже представлены офисные помещения с потолками высотой 3,6 м, свободной планировкой и возможностью перепланировки или объединения нескольких блоков. Пространства передаются без отделки, с панорамным остеклением и разводкой инженерных систем. Энергоэффективное остекление обеспечивает высокий уровень естественного освещения, защищает от перегрева летом и снижает теплопотери в холодное время года.",
-                    "pictures": []
-                },
-                "architecture": { 
-                    "description": "В состав проекта входят 2 корпуса высотой 34 этажа, выполненные в выразительной современной архитектуре с кристаллообразными силуэтами и фасадным остеклением. Панорамные стеклянные поверхности придают башням эффект легкости и визуального растворения в городской среде. В зданиях предусмотрены пассажирские и сервисные лифты с интеллектуальной системой управления, а также просторные лобби с высотой потолков 9,6 м, оформленные по авторскому дизайн-проекту. ",
-                    "pictures": []
+            "finishingTypes": [
+                {
+                    "id": "1",
+                    "title": "Без отделки"
+                }
+            ]
+        },
+        {
+            "id": "a1be1edd-9653-42a7-912a-f1e8606f9da4",
+            "externalId": "a1be1edd-9653-42a7-912a-f1e8606f9da4",
+            "title": "Pave",
+            "location": {
+                "address": "г. Москва, Даниловский, 2-й Павелецкий проезд",
+                "latitude": "55.712498",
+                "longitude": "37.643049",
+                "country": {
+                    "id": 978,
+                    "title": "Россия"
                 }
             },
-            "finishingTypes": null,
-            "externalId": "824267f5-c384-4fb2-a104-a50f52a061ee",
-            "video": null,
-            "title": "Avium",
-            "resaleoneyear": null,
-            "picture": "https://i.ibb.co/yFGKQfJd/4f314aed96476b34e3f1f2f623c07999.jpg",
-            "pictures": null,
-            "investmentthreeyears": null,
-            "tags": null,
+            "developer": "FORMA",
+            "startBuildingDate": "2024-01-30",
+            "endBuildingDate": "2029-03-30",
             "priceFrom": {
                 "flat": {
                     "currency": "RUB",
-                    "value": 57958175
+                    "value": "20607432"
                 }
             },
+            "description": "Жилой комплекс состоит из 6 корпусов переменной этажности высотой от 7 до 33 этажей. Внешний фасад строгий и сдержанный, выполнен из анодированного алюминия. В противовес ему внутренний фасад, облицованный ригельным кирпичом. Здания оснащены архитектурной подсветкой. В жилом комплексе созданы все условия для комфортной жизни: закрытая охраняемая территория с круглосуточным видеонаблюдением, уютные дворы с зонами отдыха и современными детскими и спортивными площадками. Для владельцев автомобилей в комплексе предусмотрен подземный паркинг на 503 машино-места с возможностью установки электрозарядных станций. В лобби комплекса расположены колясочная, зоны ожидания, фитнес-зал, общественная гостиная и коворкинг. В домах установлены современные скоростные лифты VEXT с дизайнерской отделкой кабин, по 2-4 лифта на корпус.",
+            "picture": "https://i.ibb.co/8LW747k8/b5d236d84148d8a010aa11c28d456c19.jpg",
+            "types": [
+                {
+                    "id": "2",
+                    "title": "Квартира"
+                }
+            ],
+            "finishingTypes": [
+                {
+                    "id": "1",
+                    "title": "Подчистовая"
+                }
+            ]
+        },
+        {
+            "id": "70cbc28d-c025-4d08-a486-6bf0dcc4c577",
+            "externalId": "70cbc28d-c025-4d08-a486-6bf0dcc4c577",
+            "title": "Moments",
             "location": {
-                "area": null,
+                "address": "Щукино, г Москва, 3-й Красногорский проезд",
+                "latitude": "55.812928",
+                "longitude": "37.481991",
                 "country": {
-                    "id": 614,
-                    "externalId": "BA916025-57E6-490A-9DF7-2584632B58FE",
-                    "title": "Россия",
-                    "slug": ""
-                },
-                "metroList": null,
+                    "id": 978,
+                    "title": "Россия"
+                }
+            },
+            "developer": "FORMA",
+            "startBuildingDate": "2024-01-30",
+            "endBuildingDate": "2027-09-30",
+            "priceFrom": {
+                "flat": {
+                    "currency": "RUB",
+                    "value": "13775760"
+                }
+            },
+            "description": "Жилой комплекс включает 8 корпусов высотой от 4 до 47 этажей. В отделке фасадов используются витражное остекление и композитные панели. В проекте предусмотрены дизайнерские входные группы с использованием природных материалов, а в лобби находятся лаундж-зона и коворкинг. На территории комплекса спроектированы детский сад и школа, детские и спортивные площадки из натуральных материалов. Для владельцев автомобилей оборудован охраняемый подземный паркинг на 795 машиномест. Есть кладовые для хранения сезонных вещей. В жилом комплексе представлено множество планировочных решений европейского формата. Сдаются они с подчистовой отделкой и высотой потолков от 2,83 до 3,6 метра. Есть возможность объединения планировок. Из большей части квартир открывается прекрасный вид на парк.",
+            "picture": "https://i.ibb.co/275XkLvw/2bca3fc93588c3507089dadece683afe.jpg",
+            "types": [
+                {
+                    "id": "2",
+                    "title": "Квартира"
+                }
+            ],
+            "finishingTypes": [
+                {
+                    "id": "1",
+                    "title": "Подчистовая"
+                }
+            ]
+        },
+        {
+            "id": "3d9b461f-424b-46dd-ab05-80ed8102ddcc",
+            "externalId": "3d9b461f-424b-46dd-ab05-80ed8102ddcc",
+            "title": "One",
+            "location": {
+                "address": "Москва, Пресненский, 1-й Красногвардейский проезд",
+                "latitude": "55.751531",
+                "longitude": "37.539837",
+                "country": {
+                    "id": 978,
+                    "title": "Россия"
+                }
+            },
+            "developer": "MR Group",
+            "startBuildingDate": "2024-01-30",
+            "endBuildingDate": "2030-12-30",
+            "priceFrom": {
+                "flat": {
+                    "currency": "RUB",
+                    "value": "49102800"
+                }
+            },
+            "description": "Проект представлен 90-этажным зданием высотой 379 метров. Архитектурная концепция разработана Сергеем Кузнецовым и бюро Genpro: 2 соединенные башни образуют форму ленты Мебиуса — символа движения и непрерывности. Здание построено по монолитной технологии с фасадным остеклением и оснащено пассажирскими и грузовыми лифтами. Архитектурная подсветка меняется в течение дня: от утреннего свечения до вечерней яркости и ночного режима. Инфраструктура комплекса доступна исключительно резидентам и включает Sky Bridge — стеклянный мост на высоте 83 этажа, и собственный парк на 85 этаже. На 35 этаже расположено пространство Sky Lobby с панорамными видами, фитнес-центрами, кинозалом, бильярдной, библиотекой, коворкингом, зоной активного отдыха, игровыми для детей и подростков. Также доступны торговая галерея, медицинский кластер и трехуровневый подземный паркинг. Места общего пользования оформлены американской студией с 60-летним опытом в дизайне премиального сегмента. Территория оснащена круглосуточным видеонаблюдением и охраной. В комплексе предлагаются квартиры с 1–3 спальнями, в том числе европланировки, а также пентхаусы и офисные пространства. Высота потолков достигает 3 метров, во всех помещениях предусмотрены панорамные окна. Из ряда квартир открываются виды на Москва-Сити, центр города, сталинские высотки и Москву-реку.",
+            "picture": "https://i.ibb.co/k2LrBC7n/e3c00c2534d76015ab385ff1a59d7477.jpg        ",
+            "types": [
+                {
+                    "id": "2",
+                    "title": "Квартира"
+                }
+            ],
+            "finishingTypes": [
+                {
+                    "id": "1",
+                    "title": "Подчистовая"
+                }
+            ]
+        },
+        {
+            "id": "aa0370eb-deb2-4db1-98e5-ad1199efeffa\t\n",
+            "externalId": "aa0370eb-deb2-4db1-98e5-ad1199efeffa\t\n",
+            "title": "Северный порт",
+            "location": {
+                "address": "Москва, Левобережный, Ленинградское шоссе",
+                "latitude": "55.864106",
+                "longitude": "37.459649",
+                "country": {
+                    "id": 978,
+                    "title": "Россия"
+                }
+            },
+            "developer": "LEGENDA",
+            "startBuildingDate": "2024-01-30",
+            "endBuildingDate": "2028-12-30",
+            "priceFrom": {
+                "flat": {
+                    "currency": "RUB",
+                    "value": "17998848"
+                }
+            },
+            "description": "Проект строится в 3 очереди. Первая очередь включает в себя 3 монолитных жилых корпуса переменной этажности высотой от 19 до 58 этажей. В домах установлены скоростные пассажирские и грузовые лифты. В местах общего пользования выполнена дизайнерская отделка, в корпусе 7.3 расположен парадный холл с декоративным освещением, лаунж-зоной, детской игровой комнатой и колясочной. На территории комплекса размещены коммерческие помещения, офисные здания, блок начальных классов и детские сады. Важной частью проекта является благоустроенная набережная, которая органично соединяется с парком Северного речного вокзала и создает уникальное прогулочное пространство. На крыше корпуса 7.3 для жителей комплекса открыта обзорная смотровая площадка.",
+            "picture": "https://i.ibb.co/mCkYMqv8/07ccf970c085b333c85be8ff72b5cbe8.jpg",
+            "types": [
+                {
+                    "id": "2",
+                    "title": "Квартира"
+                }
+            ],
+            "finishingTypes": [
+                {
+                    "id": "1",
+                    "title": "Без стен, Подчистовая"
+                }
+            ]
+        },
+        {
+            "id": "824267f5-c384-4fb2-a104-a50f52a061ee",
+            "externalId": "824267f5-c384-4fb2-a104-a50f52a061ee",
+            "title": "Avium",
+            "location": {
                 "address": "Хорошево-Мневники, ул 3-я Хорошевская",
                 "latitude": "55.788385",
-                "distanceToMetro": null,
-                "postcode": null,
-                "locality": null,
-                "highwayList": null,
-                "addressCollected": "string",
-                "district2": null,
-                "district1": null,
-                "province": null,
-                "street": null,
-                "metro": null,
-                "district": null,
-                "transportAccessibilityMetro": null,
-                "distanceToMkad": null,
-                "id": 100,
-                "highway": null,
-                "transportAccessibilityHighway": null,
-                "longitude": "37.503339"
+                "longitude": "37.503339",
+                "country": {
+                    "id": 978,
+                    "title": "Россия"
+                }
             },
             "developer": "Capital Alliance",
-            "id": "824267f5-c384-4fb2-a104-a50f52a061ee",
-            "rentoneyear": null,
-            "endBuildingDate": "30.06.2028",
-            "class": null
+            "startBuildingDate": "2024-01-30",
+            "endBuildingDate": "2028-06-30",
+            "priceFrom": {
+                "flat": {
+                    "currency": "RUB",
+                    "value": "40172232"
+                }
+            },
+            "description": "В состав проекта входят 2 корпуса высотой 34 этажа, выполненные в выразительной современной архитектуре с кристаллообразными силуэтами и фасадным остеклением. Панорамные стеклянные поверхности придают башням эффект легкости и визуального растворения в городской среде. В зданиях предусмотрены пассажирские и сервисные лифты с интеллектуальной системой управления, а также просторные лобби с высотой потолков 9,6 м, оформленные по авторскому дизайн-проекту. В продаже представлены офисные помещения с потолками высотой 3,6 м, свободной планировкой и возможностью перепланировки или объединения нескольких блоков. Пространства передаются без отделки, с панорамным остеклением и разводкой инженерных систем. Энергоэффективное остекление обеспечивает высокий уровень естественного освещения, защищает от перегрева летом и снижает теплопотери в холодное время года. В проекте насыщенная инфраструктура: ритейл на первых двух этажах, столовая, фитнес, коворкинг и кафе с верандами. В общественных зонах предусмотрены амфитеатр, PlayHub для активного отдыха, уличный офис и пространства для деловых встреч на открытом воздухе. Также на территории возможно проведение мероприятий, ярмарок и командных игр. На всей территории доступен Wi-Fi и усиленная мобильная связь. Для автомобилистов предусмотрен подземный паркинг на 400 машиномест.",
+            "picture": "https://i.ibb.co/yFGKQfJd/4f314aed96476b34e3f1f2f623c07999.jpg",
+            "types": [
+                {
+                    "id": "2",
+                    "title": "Офисное помещение"
+                }
+            ],
+            "finishingTypes": [
+                {
+                    "id": "1",
+                    "title": "Без отделки"
+                }
+            ]
         }
     ],
     "objects": [],
