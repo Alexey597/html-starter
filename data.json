@@ -5832,6 +5832,360 @@
           "title": "\u0421 \u043E\u0442\u0434\u0435\u043B\u043A\u043E\u0439 \u0431\u0435\u0437 \u043C\u0435\u0431\u0435\u043B\u0438"
         }
       ]
+    },
+    {
+      "id": "888d11d1-da4e-4c98-baa7-32d025fe7fef",
+      "externalId": "888d11d1-da4e-4c98-baa7-32d025fe7fef",
+      "title": "\u0413\u0430\u043B\u0430",
+      "location": {
+        "address": "\u041C\u043E\u0441\u043A\u0432\u0430, \u0420\u0430\u043C\u0435\u043D\u043A\u0438, \u043F\u0440-\u043A\u0442 \u0412\u0435\u0440\u043D\u0430\u0434\u0441\u043A\u043E\u0433\u043E",
+        "latitude": "55.692841",
+        "longitude": "37.526278",
+        "country": {
+          "id": 1,
+          "title": "\u0420\u043E\u0441\u0441\u0438\u044F"
+        },
+        "locality": {
+          "id": 14,
+          "title": "\u041C\u043E\u0441\u043A\u0432\u0430"
+        }
+      },
+      "developer": "APSIS GLOBE",
+      "startBuildingDate": "",
+      "endBuildingDate": "30.12.2029",
+      "priceFrom": {
+        "flat": {
+          "currency": "RUB",
+          "value": 85238550
+        }
+      },
+      "description": "",
+      "picture": "https://storage.yandexcloud.net/alpha-capital-photos/photos/693726b4f92f00316a15e7b1ac3fd97e793281a435ac01b8e5226c4638953839.jpg",
+      "tags": [
+        {
+          "id": 6,
+          "title": "\u0416\u0438\u043B\u043E\u0439 \u043A\u043E\u043C\u043F\u043B\u0435\u043A\u0441"
+        },
+        {
+          "id": 7,
+          "title": "\u041D\u043E\u0432\u043E\u0441\u0442\u0440\u043E\u0439\u043A\u0430"
+        },
+        {
+          "id": 11,
+          "title": "\u041A\u0440\u0430\u0441\u0438\u0432\u044B\u0439 \u0432\u0438\u0434"
+        }
+      ],
+      "blocks": {
+        "description": {
+          "description": "\u041F\u0440\u043E\u0435\u043A\u0442 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u0441\u043E\u0431\u043E\u0439 \u043A\u043B\u0443\u0431\u043D\u044B\u0439 \u0434\u043E\u043C \u043F\u0440\u0435\u043C\u0438\u0443\u043C \u043A\u043B\u0430\u0441\u0441\u0430 \u0438\u0437 2 \u043A\u043E\u0440\u043F\u0443\u0441\u043E\u0432, \u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u043D\u044B\u0445 \u043F\u043E \u043A\u0438\u0440\u043F\u0438\u0447\u043D\u043E-\u043C\u043E\u043D\u043E\u043B\u0438\u0442\u043D\u043E\u0439 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0441\u0442\u0440\u043E\u0438\u0442\u0435\u043B\u044C\u0441\u0442\u0432\u0430. \u0412 \u043F\u0440\u043E\u0435\u043A\u0442\u0435 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u0435\u043D\u0430 121 \u043A\u0432\u0430\u0440\u0442\u0438\u0440\u0430. \u0412\u043E \u0432\u0441\u0435\u0445 \u043A\u0432\u0430\u0440\u0442\u0438\u0440\u0430\u0445 \u043F\u0440\u0435\u0434\u0443\u0441\u043C\u043E\u0442\u0440\u0435\u043D\u044B \u043F\u0430\u043D\u043E\u0440\u0430\u043C\u043D\u044B\u0435 \u043E\u043A\u043D\u0430, \u0447\u0430\u0441\u0442\u044C \u043A\u0432\u0430\u0440\u0442\u0438\u0440 \u0434\u043E\u043F\u043E\u043B\u043D\u0435\u043D\u0430 \u043F\u0440\u043E\u0441\u0442\u043E\u0440\u043D\u044B\u043C\u0438 \u0442\u0435\u0440\u0440\u0430\u0441\u0430\u043C\u0438. \u0418\u0437 \u043E\u043A\u043E\u043D \u043E\u0442\u043A\u0440\u044B\u0432\u0430\u044E\u0442\u0441\u044F \u0432\u0438\u0434\u044B \u043D\u0430 \u041C\u0413\u0423. \u0418\u043D\u0436\u0435\u043D\u0435\u0440\u043D\u044B\u0435 \u0441\u0438\u0441\u0442\u0435\u043C\u044B \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u044E\u0442 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u043E \u0432\u043E\u0437\u0434\u0443\u0445\u0430 \u0438 \u0432\u043E\u0434\u044B, \u043E\u043F\u0442\u0438\u043C\u0430\u043B\u044C\u043D\u044B\u0439 \u043C\u0438\u043A\u0440\u043E\u043A\u043B\u0438\u043C\u0430\u0442 \u0438 \u0430\u043A\u0443\u0441\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u043A\u043E\u043C\u0444\u043E\u0440\u0442.",
+          "pictures": [
+            {
+              "id": 1220608904,
+              "position": 1,
+              "group": {
+                "id": 6,
+                "slug": "fotografii-2",
+                "title": "\u0424\u043E\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u0438"
+              },
+              "large": {
+                "url": "https://storage.yandexcloud.net/alpha-capital-photos/photos/385ac7b77b450230e5c3093d2180ca9d1ca01b63baf10b922b6c957acaf4215c.jpg"
+              },
+              "middle": {
+                "url": "https://storage.yandexcloud.net/alpha-capital-photos/photos/385ac7b77b450230e5c3093d2180ca9d1ca01b63baf10b922b6c957acaf4215c-800.jpg"
+              }
+            },
+            {
+              "id": 1455631,
+              "position": 2,
+              "group": {
+                "id": 6,
+                "slug": "fotografii-2",
+                "title": "\u0424\u043E\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u0438"
+              },
+              "large": {
+                "url": "https://storage.yandexcloud.net/alpha-capital-photos/photos/de802f01b93fe6ec97da97f3779a198e0a11db8a2c3a481bfde89416baad26e8.jpg"
+              },
+              "middle": {
+                "url": "https://storage.yandexcloud.net/alpha-capital-photos/photos/de802f01b93fe6ec97da97f3779a198e0a11db8a2c3a481bfde89416baad26e8-800.jpg"
+              }
+            },
+            {
+              "id": 2016534373,
+              "position": 3,
+              "group": {
+                "id": 6,
+                "slug": "fotografii-2",
+                "title": "\u0424\u043E\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u0438"
+              },
+              "large": {
+                "url": "https://storage.yandexcloud.net/alpha-capital-photos/photos/13aad5277040541d9107bf2cf6657375b6e069f394de35403e1d93c729bd7aba.jpg"
+              },
+              "middle": {
+                "url": "https://storage.yandexcloud.net/alpha-capital-photos/photos/13aad5277040541d9107bf2cf6657375b6e069f394de35403e1d93c729bd7aba-800.jpg"
+              }
+            }
+          ]
+        },
+        "architecture": {
+          "description": "\u041A\u043E\u043C\u0431\u0438\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u044B\u0435 \u0444\u0430\u0441\u0430\u0434\u044B \u0434\u043E\u043F\u043E\u043B\u043D\u0435\u043D\u044B \u043F\u0430\u043D\u043E\u0440\u0430\u043C\u043D\u044B\u043C \u043E\u0441\u0442\u0435\u043A\u043B\u0435\u043D\u0438\u0435\u043C. \u0412 \u0434\u043E\u043C\u0430\u0445 \u0443\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u044B \u043F\u0430\u0441\u0441\u0430\u0436\u0438\u0440\u0441\u043A\u0438\u0435 \u0438 \u0433\u0440\u0443\u0437\u043E\u0432\u044B\u0435 \u043B\u0438\u0444\u0442\u044B. \u041F\u0430\u0440\u0430\u0434\u043D\u044B\u0435 \u0432\u0445\u043E\u0434\u044B \u0432\u0435\u0434\u0443\u0442 \u0432 \u0442\u0438\u0445\u0438\u0435 \u043B\u043E\u0431\u0431\u0438 \u0441 \u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u043C \u043E\u0441\u0432\u0435\u0449\u0435\u043D\u0438\u0435\u043C, \u043E\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0435 \u043F\u0440\u043E\u0441\u0442\u0440\u0430\u043D\u0441\u0442\u0432\u0430 \u043E\u0444\u043E\u0440\u043C\u043B\u0435\u043D\u044B \u0442\u0430\u043A\u0442\u0438\u043B\u044C\u043D\u043E \u043F\u0440\u0438\u044F\u0442\u043D\u044B\u043C\u0438 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\u043C\u0438 \u043D\u0430\u0442\u0443\u0440\u0430\u043B\u044C\u043D\u044B\u0445 \u043E\u0442\u0442\u0435\u043D\u043A\u043E\u0432.",
+          "pictures": [
+            {
+              "id": 1067513686,
+              "position": 1,
+              "group": {
+                "id": 6,
+                "slug": "fotografii-2",
+                "title": "\u0424\u043E\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u0438"
+              },
+              "large": {
+                "url": "https://storage.yandexcloud.net/alpha-capital-photos/photos/559dd889048f914de35aa2d0f3dfe188864752f06cd37c6d1e14a10edaa1c5f5.jpg"
+              },
+              "middle": {
+                "url": "https://storage.yandexcloud.net/alpha-capital-photos/photos/559dd889048f914de35aa2d0f3dfe188864752f06cd37c6d1e14a10edaa1c5f5-800.jpg"
+              }
+            },
+            {
+              "id": 886561789,
+              "position": 2,
+              "group": {
+                "id": 6,
+                "slug": "fotografii-2",
+                "title": "\u0424\u043E\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u0438"
+              },
+              "large": {
+                "url": "https://storage.yandexcloud.net/alpha-capital-photos/photos/82c12bef7356aa8610decb8c605e088e9d6551ffcc7c70c0a12158fce954992c.jpg"
+              },
+              "middle": {
+                "url": "https://storage.yandexcloud.net/alpha-capital-photos/photos/82c12bef7356aa8610decb8c605e088e9d6551ffcc7c70c0a12158fce954992c-800.jpg"
+              }
+            },
+            {
+              "id": 1943988386,
+              "position": 3,
+              "group": {
+                "id": 6,
+                "slug": "fotografii-2",
+                "title": "\u0424\u043E\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u0438"
+              },
+              "large": {
+                "url": "https://storage.yandexcloud.net/alpha-capital-photos/photos/4d87154e8fbd086ee8365fdad6bcc0e0c04eabb85f258f70016cb5b330b74e9f.jpg"
+              },
+              "middle": {
+                "url": "https://storage.yandexcloud.net/alpha-capital-photos/photos/4d87154e8fbd086ee8365fdad6bcc0e0c04eabb85f258f70016cb5b330b74e9f-800.jpg"
+              }
+            },
+            {
+              "id": 1914098825,
+              "position": 4,
+              "group": {
+                "id": 6,
+                "slug": "fotografii-2",
+                "title": "\u0424\u043E\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u0438"
+              },
+              "large": {
+                "url": "https://storage.yandexcloud.net/alpha-capital-photos/photos/fc3ca25d653c2e87039249fbd7a9d33893e7dc48695fb3edf73fed51a9184ee2.jpg"
+              },
+              "middle": {
+                "url": "https://storage.yandexcloud.net/alpha-capital-photos/photos/fc3ca25d653c2e87039249fbd7a9d33893e7dc48695fb3edf73fed51a9184ee2-800.jpg"
+              }
+            }
+          ]
+        },
+        "infrastructure": {
+          "description": "\u0414\u043B\u044F \u0436\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043E\u0437\u0434\u0430\u043D \u043F\u0440\u0438\u0432\u0430\u0442\u043D\u044B\u0439 \u0437\u0435\u043B\u0435\u043D\u044B\u0439 \u0434\u0432\u043E\u0440 \u043F\u043B\u043E\u0449\u0430\u0434\u044C\u044E 7 000 \u043A\u0432. \u043C \u0441 \u043F\u0440\u043E\u0433\u0443\u043B\u043E\u0447\u043D\u044B\u043C\u0438 \u043C\u0430\u0440\u0448\u0440\u0443\u0442\u0430\u043C\u0438 \u0438 \u0437\u043E\u043D\u0430\u043C\u0438 \u043E\u0442\u0434\u044B\u0445\u0430 \u0441\u0440\u0435\u0434\u0438 \u043B\u0438\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0445 \u0438 \u0432\u0435\u0447\u043D\u043E\u0437\u0435\u043B\u0435\u043D\u044B\u0445 \u0440\u0430\u0441\u0442\u0435\u043D\u0438\u0439. \u0412 \u0434\u043E\u043C\u0435 \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u044B \u043F\u0435\u0440\u0435\u0433\u043E\u0432\u043E\u0440\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430, \u0440\u0435\u0441\u0442\u043E\u0440\u0430\u043D, \u0434\u0435\u0442\u0441\u043A\u0430\u044F \u0438\u0433\u0440\u043E\u0432\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430, \u043A\u043E\u043B\u044F\u0441\u043E\u0447\u043D\u0430\u044F \u0438 \u0437\u043E\u043D\u0430 \u0434\u043B\u044F \u0443\u0445\u043E\u0434\u0430 \u0437\u0430 \u043F\u0438\u0442\u043E\u043C\u0446\u0430\u043C\u0438. \u0416\u0438\u0442\u0435\u043B\u044F\u043C \u0434\u043E\u0441\u0442\u0443\u043F\u043D\u044B \u0443\u0441\u043B\u0443\u0433\u0438 \u043F\u043E \u043F\u0440\u0438\u0435\u043C\u0443 \u043F\u043E\u0441\u044B\u043B\u043E\u043A, \u043F\u0430\u0440\u043A\u043E\u0432\u043A\u0435 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044F \u0438 \u043F\u0435\u0440\u0435\u0434\u0430\u0447\u0435 \u0432\u0435\u0449\u0435\u0439 \u0432 \u0445\u0438\u043C\u0447\u0438\u0441\u0442\u043A\u0443. \u0412 \u043F\u043E\u0434\u0437\u0435\u043C\u043D\u043E\u043C \u043F\u0430\u0440\u043A\u0438\u043D\u0433\u0435 \u0440\u0430\u0431\u043E\u0442\u0430\u0435\u0442 \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0440\u0430\u0441\u043F\u043E\u0437\u043D\u0430\u0432\u0430\u043D\u0438\u044F \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u043D\u043E\u043C\u0435\u0440\u043E\u0432, \u043F\u0440\u0435\u0434\u0443\u0441\u043C\u043E\u0442\u0440\u0435\u043D\u044B \u0437\u0430\u0440\u044F\u0434\u043D\u044B\u0435 \u0441\u0442\u0430\u043D\u0446\u0438\u0438 \u0434\u043B\u044F \u044D\u043B\u0435\u043A\u0442\u0440\u043E\u043C\u043E\u0431\u0438\u043B\u0435\u0439 \u0438 \u0443\u0432\u0435\u043B\u0438\u0447\u0435\u043D\u043D\u044B\u0435 \u043C\u0430\u0448\u0438\u043D\u043E\u043C\u0435\u0441\u0442\u0430. \u0414\u043B\u044F \u0445\u0440\u0430\u043D\u0435\u043D\u0438\u044F \u0432\u0435\u0449\u0435\u0439 \u0438 \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u043E\u0433\u043E \u0438\u043D\u0432\u0435\u043D\u0442\u0430\u0440\u044F \u043F\u0440\u0435\u0434\u0443\u0441\u043C\u043E\u0442\u0440\u0435\u043D\u044B \u043A\u043B\u0430\u0434\u043E\u0432\u044B\u0435.",
+          "pictures": [
+            {
+              "id": 1575774600,
+              "position": 1,
+              "group": {
+                "id": 6,
+                "slug": "fotografii-2",
+                "title": "\u0424\u043E\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u0438"
+              },
+              "large": {
+                "url": "https://storage.yandexcloud.net/alpha-capital-photos/photos/2c273e6e078c272fc1b925998903a7a314095b567f2f5d63db21768d54f559a5.jpg"
+              },
+              "middle": {
+                "url": "https://storage.yandexcloud.net/alpha-capital-photos/photos/2c273e6e078c272fc1b925998903a7a314095b567f2f5d63db21768d54f559a5-800.jpg"
+              }
+            },
+            {
+              "id": 1082471326,
+              "position": 2,
+              "group": {
+                "id": 6,
+                "slug": "fotografii-2",
+                "title": "\u0424\u043E\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u0438"
+              },
+              "large": {
+                "url": "https://storage.yandexcloud.net/alpha-capital-photos/photos/840972a5fda49961f8e83f851d623b04fa95392bbb3369ec2d67e7ba45e7f4cd.jpg"
+              },
+              "middle": {
+                "url": "https://storage.yandexcloud.net/alpha-capital-photos/photos/840972a5fda49961f8e83f851d623b04fa95392bbb3369ec2d67e7ba45e7f4cd-800.jpg"
+              }
+            }
+          ]
+        }
+      },
+      "types": [
+        {
+          "id": 2,
+          "title": "\u041A\u0432\u0430\u0440\u0442\u0438\u0440\u0430"
+        }
+      ],
+      "finishingTypes": [
+        {
+          "id": 1,
+          "title": "\u0411\u0435\u0437 \u043E\u0442\u0434\u0435\u043B\u043A\u0438"
+        }
+      ]
+    },
+    {
+      "id": "10cfb7a3-fa13-4fad-87a2-af2743439d50",
+      "externalId": "10cfb7a3-fa13-4fad-87a2-af2743439d50",
+      "title": "\u0414\u043E\u043C \u0412\u044B\u0441\u043E\u0442\u044B",
+      "location": {
+        "address": "\u041C\u043E\u0441\u043A\u0432\u0430, \u0440-\u043D \u0411\u0435\u0433\u043E\u0432\u043E\u0439, \u041B\u0435\u043D\u0438\u043D\u0433\u0440\u0430\u0434\u0441\u043A\u0438\u0439 \u043F\u0440-\u043A\u0442",
+        "latitude": "55.787560",
+        "longitude": "37.551123",
+        "country": {
+          "id": 1,
+          "title": "\u0420\u043E\u0441\u0441\u0438\u044F"
+        },
+        "locality": {
+          "id": 14,
+          "title": "\u041C\u043E\u0441\u043A\u0432\u0430"
+        }
+      },
+      "developer": "Capital Group",
+      "startBuildingDate": "",
+      "endBuildingDate": "30.06.2031",
+      "priceFrom": {
+        "flat": {
+          "currency": "RUB",
+          "value": 36301320
+        }
+      },
+      "description": "",
+      "picture": "https://storage.yandexcloud.net/alpha-capital-photos/photos/19782b0402e9ab31e1ef60f53f71bc40bab82887899c02e662874d19bfd73b84.jpg",
+      "tags": [
+        {
+          "id": 6,
+          "title": "\u0416\u0438\u043B\u043E\u0439 \u043A\u043E\u043C\u043F\u043B\u0435\u043A\u0441"
+        },
+        {
+          "id": 7,
+          "title": "\u041D\u043E\u0432\u043E\u0441\u0442\u0440\u043E\u0439\u043A\u0430"
+        },
+        {
+          "id": 11,
+          "title": "\u041A\u0440\u0430\u0441\u0438\u0432\u044B\u0439 \u0432\u0438\u0434"
+        }
+      ],
+      "blocks": {
+        "description": {
+          "description": "\u041F\u0440\u043E\u0435\u043A\u0442 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u0441\u043E\u0431\u043E\u0439 \u0436\u0438\u043B\u043E\u0439 \u043A\u043E\u043C\u043F\u043B\u0435\u043A\u0441 \u044D\u043B\u0438\u0442\u043D\u043E\u0433\u043E \u043A\u043B\u0430\u0441\u0441\u0430 \u0432 \u0432\u0438\u0434\u0435 \u0431\u0430\u0448\u043D\u0438 \u0432\u044B\u0441\u043E\u0442\u043E\u0439 48 \u044D\u0442\u0430\u0436\u0435\u0439. \u0412 \u043F\u0440\u043E\u0435\u043A\u0442\u0435 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u0435\u043D\u043E 33 \u043F\u043B\u0430\u043D\u0438\u0440\u043E\u0432\u043E\u0447\u043D\u044B\u0445 \u0440\u0435\u0448\u0435\u043D\u0438\u044F \u2014 \u043E\u0442 1-\u043A\u043E\u043C\u043D\u0430\u0442\u043D\u044B\u0445 \u043A\u0432\u0430\u0440\u0442\u0438\u0440 \u0434\u043E \u043F\u0435\u043D\u0442\u0445\u0430\u0443\u0441\u043E\u0432, \u0432 \u0442\u043E\u043C \u0447\u0438\u0441\u043B\u0435 \u0435\u0432\u0440\u043E\u043F\u043B\u0430\u043D\u0438\u0440\u043E\u0432\u043A\u0438, \u0432\u0430\u0440\u0438\u0430\u043D\u0442\u044B \u0441 \u043C\u0430\u0441\u0442\u0435\u0440-\u0441\u043F\u0430\u043B\u044C\u043D\u044F\u043C\u0438 \u0438 \u0433\u0430\u0440\u0434\u0435\u0440\u043E\u0431\u043D\u044B\u043C\u0438. \u0412\u043E \u0432\u0441\u0435\u0445 \u043A\u0432\u0430\u0440\u0442\u0438\u0440\u0430\u0445 \u043F\u0440\u0435\u0434\u0443\u0441\u043C\u043E\u0442\u0440\u0435\u043D\u044B \u043F\u0430\u043D\u043E\u0440\u0430\u043C\u043D\u044B\u0435 \u043E\u043A\u043D\u0430, \u0447\u0430\u0441\u0442\u044C \u043F\u043B\u0430\u043D\u0438\u0440\u043E\u0432\u043E\u043A \u0434\u043E\u043F\u043E\u043B\u043D\u0435\u043D\u0430 \u0443\u0433\u043B\u043E\u0432\u044B\u043C \u043E\u0441\u0442\u0435\u043A\u043B\u0435\u043D\u0438\u0435\u043C. \u0412\u044B\u0441\u043E\u0442\u0430 \u043F\u043E\u0442\u043E\u043B\u043A\u043E\u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u0434\u043E 3,4 \u043C \u043D\u0430 \u0442\u0438\u043F\u043E\u0432\u044B\u0445 \u044D\u0442\u0430\u0436\u0430\u0445, \u0432 \u043E\u0442\u0434\u0435\u043B\u044C\u043D\u044B\u0445 \u043A\u0432\u0430\u0440\u0442\u0438\u0440\u0430\u0445 \u2014 \u0434\u043E 3,7 \u043C, \u0432 \u043F\u0435\u043D\u0442\u0445\u0430\u0443\u0441\u0430\u0445 \u2014 \u0434\u043E 7,5 \u043C. \u041F\u0440\u0435\u0434\u0443\u0441\u043C\u043E\u0442\u0440\u0435\u043D\u0430 \u0432\u043E\u0437\u043C\u043E\u0436\u043D\u043E\u0441\u0442\u044C \u043E\u0431\u044A\u0435\u0434\u0438\u043D\u0435\u043D\u0438\u044F \u0441\u043C\u0435\u0436\u043D\u044B\u0445 \u043A\u0432\u0430\u0440\u0442\u0438\u0440. \u041A\u0432\u0430\u0440\u0442\u0438\u0440\u044B \u043F\u0435\u0440\u0435\u0434\u0430\u044E\u0442\u0441\u044F \u0431\u0435\u0437 \u043E\u0442\u0434\u0435\u043B\u043A\u0438.",
+          "pictures": [
+            {
+              "id": 550985679,
+              "position": 1,
+              "group": {
+                "id": 6,
+                "slug": "fotografii-2",
+                "title": "\u0424\u043E\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u0438"
+              },
+              "large": {
+                "url": "https://storage.yandexcloud.net/alpha-capital-photos/photos/d85ce8765f5f7db4cc01fbddc2b06f3780eb37b63be34415fa06b4bf06e68491.jpg"
+              },
+              "middle": {
+                "url": "https://storage.yandexcloud.net/alpha-capital-photos/photos/d85ce8765f5f7db4cc01fbddc2b06f3780eb37b63be34415fa06b4bf06e68491-800.jpg"
+              }
+            }
+          ]
+        },
+        "architecture": {
+          "description": "\u0417\u0434\u0430\u043D\u0438\u0435 \u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u043E \u043F\u043E \u043A\u0438\u0440\u043F\u0438\u0447\u043D\u043E-\u043C\u043E\u043D\u043E\u043B\u0438\u0442\u043D\u043E\u0439 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0441\u0442\u0440\u043E\u0438\u0442\u0435\u043B\u044C\u0441\u0442\u0432\u0430, \u0444\u0430\u0441\u0430\u0434\u044B \u0434\u043E\u043F\u043E\u043B\u043D\u0435\u043D\u044B \u043F\u0430\u043D\u043E\u0440\u0430\u043C\u043D\u044B\u043C \u043E\u0441\u0442\u0435\u043A\u043B\u0435\u043D\u0438\u0435\u043C \u0438 \u0437\u0430\u0433\u043B\u0443\u0431\u043B\u0435\u043D\u043D\u044B\u043C\u0438 \u0442\u0435\u0440\u0440\u0430\u0441\u0430\u043C\u0438. \u0410\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u043D\u0430\u044F \u043A\u043E\u043D\u0446\u0435\u043F\u0446\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0430\u043D\u0430 \u0431\u044E\u0440\u043E Kleinewelt Architekten. \u0412 \u0434\u043E\u043C\u0435 \u0443\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u044B 6 \u0432\u044B\u0441\u043E\u043A\u043E\u0441\u043A\u043E\u0440\u043E\u0441\u0442\u043D\u044B\u0445 \u043F\u0430\u0441\u0441\u0430\u0436\u0438\u0440\u0441\u043A\u0438\u0445 \u0438 \u0433\u0440\u0443\u0437\u043E\u0432\u044B\u0445 \u043B\u0438\u0444\u0442\u043E\u0432 \u0441 \u0438\u043D\u0442\u0435\u043B\u043B\u0435\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u043E\u0439 \u0441\u0438\u0441\u0442\u0435\u043C\u043E\u0439 \u0440\u0430\u0441\u043F\u0440\u0435\u0434\u0435\u043B\u0435\u043D\u0438\u044F \u043F\u0430\u0441\u0441\u0430\u0436\u0438\u0440\u043E\u043F\u043E\u0442\u043E\u043A\u0430. \u041F\u0440\u043E\u0441\u0442\u043E\u0440\u043D\u043E\u0435 \u043B\u043E\u0431\u0431\u0438 \u043F\u043B\u043E\u0449\u0430\u0434\u044C\u044E 300 \u043A\u0432. \u043C \u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u043E \u0441 \u0432\u0438\u0442\u0440\u0430\u0436\u043D\u044B\u043C \u043E\u0441\u0442\u0435\u043A\u043B\u0435\u043D\u0438\u0435\u043C \u0432\u044B\u0441\u043E\u0442\u043E\u0439 6,5 \u043C, \u0437\u0438\u043C\u043D\u0438\u043C \u0441\u0430\u0434\u043E\u043C, \u0437\u043E\u043D\u043E\u0439 \u043E\u0436\u0438\u0434\u0430\u043D\u0438\u044F, \u043F\u0440\u043E\u0441\u0442\u0440\u0430\u043D\u0441\u0442\u0432\u043E\u043C \u0434\u043B\u044F \u0432\u0441\u0442\u0440\u0435\u0447, \u043A\u043E\u043B\u044F\u0441\u043E\u0447\u043D\u043E\u0439, \u0432\u0435\u043B\u043E\u0441\u0438\u043F\u0435\u0434\u043D\u043E\u0439 \u0438 \u043B\u0430\u043F\u043E\u043C\u043E\u0439\u043A\u043E\u0439.",
+          "pictures": [
+            {
+              "id": 1089237298,
+              "position": 1,
+              "group": {
+                "id": 6,
+                "slug": "fotografii-2",
+                "title": "\u0424\u043E\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u0438"
+              },
+              "large": {
+                "url": "https://storage.yandexcloud.net/alpha-capital-photos/photos/55dff99facb88a5636f15be68c0b9e4bc72a57ad2d2f6f0bdcd67e99fe2e5886.jpg"
+              },
+              "middle": {
+                "url": "https://storage.yandexcloud.net/alpha-capital-photos/photos/55dff99facb88a5636f15be68c0b9e4bc72a57ad2d2f6f0bdcd67e99fe2e5886-800.jpg"
+              }
+            },
+            {
+              "id": 1200080697,
+              "position": 2,
+              "group": {
+                "id": 6,
+                "slug": "fotografii-2",
+                "title": "\u0424\u043E\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u0438"
+              },
+              "large": {
+                "url": "https://storage.yandexcloud.net/alpha-capital-photos/photos/e82234471e728a7ce9e5ebe943bdd96e87b6b775e7112d7a91b128653691b7d9.jpg"
+              },
+              "middle": {
+                "url": "https://storage.yandexcloud.net/alpha-capital-photos/photos/e82234471e728a7ce9e5ebe943bdd96e87b6b775e7112d7a91b128653691b7d9-800.jpg"
+              }
+            }
+          ]
+        },
+        "infrastructure": {
+          "description": "\u041D\u0430 \u043F\u0440\u0438\u0432\u0430\u0442\u043D\u043E\u0439 \u0442\u0435\u0440\u0440\u0438\u0442\u043E\u0440\u0438\u0438 \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D \u0431\u043B\u0430\u0433\u043E\u0443\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u044B\u0439 \u0434\u0432\u043E\u0440 \u0441 \u0432\u043E\u0434\u043D\u044B\u043C \u0430\u0440\u0442-\u043E\u0431\u044A\u0435\u043A\u0442\u043E\u043C, \u043B\u0430\u043D\u0434\u0448\u0430\u0444\u0442\u043D\u044B\u043C \u043E\u0437\u0435\u043B\u0435\u043D\u0435\u043D\u0438\u0435\u043C \u0438 1 300 \u043A\u0432. \u043C \u0434\u0435\u0442\u0441\u043A\u0438\u0445 \u043F\u0440\u043E\u0441\u0442\u0440\u0430\u043D\u0441\u0442\u0432. \u0414\u043B\u044F \u0436\u0438\u0442\u0435\u043B\u0435\u0439 \u043F\u0440\u0435\u0434\u0443\u0441\u043C\u043E\u0442\u0440\u0435\u043D\u044B \u043C\u043D\u043E\u0433\u043E\u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0435 \u043F\u0440\u043E\u0441\u0442\u0440\u0430\u043D\u0441\u0442\u0432\u043E \u0434\u043B\u044F \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0432\u0441\u0442\u0440\u0435\u0447, \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430, \u043B\u0430\u0443\u043D\u0436-\u0437\u043E\u043D\u0430, \u0437\u0438\u043C\u043D\u0438\u0439 \u0441\u0430\u0434 \u0438 \u043F\u0440\u0438\u0432\u0430\u0442\u043D\u0430\u044F \u0444\u0438\u0442\u043D\u0435\u0441-\u0441\u0442\u0443\u0434\u0438\u044F \u043F\u043B\u043E\u0449\u0430\u0434\u044C\u044E 190 \u043A\u0432. \u043C. \u041D\u0430 \u043F\u0435\u0440\u0432\u043E\u043C \u044D\u0442\u0430\u0436\u0435 \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u044B \u043A\u043E\u043C\u043C\u0435\u0440\u0447\u0435\u0441\u043A\u0438\u0435 \u043F\u043E\u043C\u0435\u0449\u0435\u043D\u0438\u044F \u0434\u043B\u044F \u0440\u0435\u0441\u0442\u043E\u0440\u0430\u043D\u043E\u0432, \u043C\u0430\u0433\u0430\u0437\u0438\u043D\u043E\u0432, \u043A\u043E\u0444\u0435\u0435\u043D \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 \u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432. \u0422\u0440\u0435\u0445\u0443\u0440\u043E\u0432\u043D\u0435\u0432\u044B\u0439 \u043F\u043E\u0434\u0437\u0435\u043C\u043D\u044B\u0439 \u043F\u0430\u0440\u043A\u0438\u043D\u0433 \u0440\u0430\u0441\u0441\u0447\u0438\u0442\u0430\u043D \u043D\u0430 201 \u043C\u0430\u0448\u0438\u043D\u043E\u043C\u0435\u0441\u0442\u043E, \u043F\u0440\u0435\u0434\u0443\u0441\u043C\u043E\u0442\u0440\u0435\u043D\u044B \u0441\u0435\u043C\u0435\u0439\u043D\u044B\u0435 \u043C\u0435\u0441\u0442\u0430 \u0438 \u043C\u0435\u0441\u0442\u0430 \u0434\u043B\u044F \u044D\u043B\u0435\u043A\u0442\u0440\u043E\u043C\u043E\u0431\u0438\u043B\u0435\u0439. \u041D\u0430 \u0443\u0440\u043E\u0432\u043D\u0435 \u043F\u0430\u0440\u043A\u0438\u043D\u0433\u0430 \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u044B \u043A\u043B\u0430\u0434\u043E\u0432\u044B\u0435 \u043F\u043B\u043E\u0449\u0430\u0434\u044C\u044E \u043E\u043A\u043E\u043B\u043E 4\u20139 \u043A\u0432. \u043C.",
+          "pictures": [
+            {
+              "id": 902883326,
+              "position": 1,
+              "group": {
+                "id": 6,
+                "slug": "fotografii-2",
+                "title": "\u0424\u043E\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u0438"
+              },
+              "large": {
+                "url": "https://storage.yandexcloud.net/alpha-capital-photos/photos/f6f7463c7314d2e4db7d639d334bd52367d5283e8841a9d50f0d500be6fb8065.jpg"
+              },
+              "middle": {
+                "url": "https://storage.yandexcloud.net/alpha-capital-photos/photos/f6f7463c7314d2e4db7d639d334bd52367d5283e8841a9d50f0d500be6fb8065-800.jpg"
+              }
+            },
+            {
+              "id": 520602855,
+              "position": 2,
+              "group": {
+                "id": 6,
+                "slug": "fotografii-2",
+                "title": "\u0424\u043E\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u0438"
+              },
+              "large": {
+                "url": "https://storage.yandexcloud.net/alpha-capital-photos/photos/0dfb5a7260ebf49dd798c4029ea518cb5b4a1f9539bbb92f0b7acaeb6d12a77d.jpg"
+              },
+              "middle": {
+                "url": "https://storage.yandexcloud.net/alpha-capital-photos/photos/0dfb5a7260ebf49dd798c4029ea518cb5b4a1f9539bbb92f0b7acaeb6d12a77d-800.jpg"
+              }
+            }
+          ]
+        }
+      },
+      "types": [
+        {
+          "id": 2,
+          "title": "\u041A\u0432\u0430\u0440\u0442\u0438\u0440\u0430"
+        }
+      ],
+      "finishingTypes": [
+        {
+          "id": 1,
+          "title": "\u0411\u0435\u0437 \u043E\u0442\u0434\u0435\u043B\u043A\u0438"
+        }
+      ]
     }
   ],
   "objects": [],
